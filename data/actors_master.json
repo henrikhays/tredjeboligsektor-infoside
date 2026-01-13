@@ -1,0 +1,3790 @@
+[
+  {
+    "navn": "Alingsås kommune (Sverige)",
+    "kategori": "annet",
+    "temaer": "deleie, internasjonal modell, interreg",
+    "geografi": "Sverige",
+    "rolle_kort": "Svensk kommune som tester norsk deleie-modell via Interreg.",
+    "relevans_for_TBS": "Eksempel på grenseoverskridende samarbeid som kan gi støtte og erfaringsutveksling.",
+    "status": "Under utvikling",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11",
+    "id_master": 1
+  },
+  {
+    "navn": "Bolig for Velferd (evaluering)",
+    "kategori": "annet",
+    "temaer": "evaluering, nasjonal strategi, nibr",
+    "geografi": "Norge",
+    "rolle_kort": "Evaluering av nasjonal strategi utført av NIBR.",
+    "relevans_for_TBS": "Relevant forskning om effekter av boligsosiale tiltak.",
+    "status": "Gjennomført",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 5, ref. 12",
+    "id_master": 2
+  },
+  {
+    "navn": "Boligbehov 2025-2029 (statistikk)",
+    "kategori": "annet",
+    "temaer": "boligbehov, gap-analyse, markedsdata",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statistikk over årlig boligbehov og faktisk igangsetting.",
+    "relevans_for_TBS": "Årlig boligbehov: 27.770 boliger. Faktisk igangsetting 2024: 14.000 boliger. Gap: 13.770 boliger årlig (50% underdekning).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 3-4, ref. 8-9",
+    "id_master": 3
+  },
+  {
+    "navn": "Boligmerket",
+    "kategori": "annet",
+    "temaer": "kvalitetssikring, sertifisering, utleiere",
+    "geografi": "Norge",
+    "rolle_kort": "Sertifiseringsordning for utleiere utviklet av Leieboerforeningen.",
+    "relevans_for_TBS": "Kan være relevant for å kvalitetssikre leie-elementet i nye boligmodeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 7.1, side 11, ref [11]",
+    "id_master": 4
+  },
+  {
+    "navn": "Bård Folke Fredriksen (NBBL)",
+    "kategori": "annet",
+    "temaer": "nbbl-direktør, tredje boligsektor, wien",
+    "geografi": "Norge",
+    "rolle_kort": "NBBL-direktør som skrev kronikk i 2022 om tredje boligsektor med lærdom fra Wien.",
+    "relevans_for_TBS": "Å knytte seg opp mot NBBL kan gi Tredje Boligsektor AS en stemme i den nasjonale debatten.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 12-13",
+    "id_master": 5
+  },
+  {
+    "navn": "Contrasting inclusionary housing initiatives in Denmark, Sweden, and Norway (Housing Studies)",
+    "kategori": "annet",
+    "temaer": "forskningspublikasjon, nordisk sammenligning",
+    "geografi": "Norden",
+    "rolle_kort": "Akademisk artikkel i Housing Studies med nordisk komparativ analyse.",
+    "relevans_for_TBS": "Gir nordisk perspektiv på inkluderende boliginitiativer.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 7",
+    "id_master": 6
+  },
+  {
+    "navn": "Daniel Siraj (OBOS konsernsjef)",
+    "kategori": "annet",
+    "temaer": "boligpolitikk, lovendringer, obos",
+    "geografi": "Norge",
+    "rolle_kort": "OBOS' konsernsjef som har støttet lovendringene for deleie og leie-til-eie.",
+    "relevans_for_TBS": "Viser at store aktører støtter utviklingen mot flere alternative boligmodeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9, ref 58",
+    "id_master": 7
+  },
+  {
+    "navn": "Danmark - 25% allmennboliger",
+    "kategori": "annet",
+    "temaer": "internasjonal modell, non-profit, planlovreform",
+    "geografi": "Danmark",
+    "rolle_kort": "Dansk planlovreform fra 2015 som ga kommuner rett til å kreve 25% allmennboliger (non-profit) i alle nye utbygginger.",
+    "relevans_for_TBS": "Forskning på Danmark viser effekten av en planlovreform. I København har dette radikalt endret utbyggingspraksisen: Private utbyggere må nå planlegge med en fjerdedel almene boliger i prosjektene for å få dem godkjent.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, 5, side 5-6, 9, ref 47, 48",
+    "id_master": 8
+  },
+  {
+    "navn": "Danske almene boliger",
+    "kategori": "annet",
+    "temaer": "beboerdemokrati, internasjonal modell, landsbyggefonden, non-profit utleie",
+    "geografi": "Danmark",
+    "rolle_kort": "Dansk modell med non-profit utleieboliger med offentlig støtte og beboerdemokrati.",
+    "relevans_for_TBS": "Landsbyggefonden koordinerer finansiering og vedlikehold. Modellen er tilgjengelig for alle inntektsgrupper og kan gi verdifull læring for norsk tredje boligsektor.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 9
+  },
+  {
+    "navn": "Den sosialt bærekraftige byen (NIBR-prosjekt)",
+    "kategori": "annet",
+    "temaer": "forskningsprosjekt, inkluderende boligmarkeder, sosial bærekraft",
+    "geografi": "Norge",
+    "rolle_kort": "NIBR-prosjekt ledet av Gro Sandkjær Hanssen som utvikler kunnskap om inkluderende lokale boligmarkeder.",
+    "relevans_for_TBS": "Direkte relevant forskning for tredje boligsektor-utvikling.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 10
+  },
+  {
+    "navn": "Eiendomsrett.no",
+    "kategori": "annet",
+    "temaer": "juridisk informasjon, leie-til-eie",
+    "geografi": "Norge",
+    "rolle_kort": "Juridisk informasjonsportal om eiendomsrett.",
+    "relevans_for_TBS": "Informasjonskilde om juridiske aspekter ved leie-til-eie.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 95",
+    "id_master": 11
+  },
+  {
+    "navn": "England - Shared ownership",
+    "kategori": "annet",
+    "temaer": "delt eierskap, housing association, internasjonal modell",
+    "geografi": "England",
+    "rolle_kort": "Engelsk modell med 'shared ownership' siden 1980-tallet.",
+    "relevans_for_TBS": "Kjøp 25%, betal leie på resten til en housing association, og kjøp deg opp når du kan. Erfaring med 'deling av verdistigning' - myndigheter eller investorer skyter inn egenkapital mot tilsvarende andel av fremtidig verdistigning.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 12",
+    "id_master": 12
+  },
+  {
+    "navn": "Hagegata 30 (Tøyen-piloten)",
+    "kategori": "annet",
+    "temaer": "oslo, pilot, skrinlagt, tredje boligsektor",
+    "geografi": "Oslo (Tøyen)",
+    "rolle_kort": "Oslo kommunes pilot for tredje boligsektor som dessverre ble skrinlagt.",
+    "relevans_for_TBS": "Selv om prosjektet ikke lyktes, har initiativet bidratt til debatten og inspirert lignende tanker i andre byer.",
+    "status": "Skrinlagt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, 5, side 3-4, 9, ref 38-40",
+    "id_master": 13
+  },
+  {
+    "navn": "Hellvik Hage",
+    "kategori": "annet",
+    "temaer": "boligprosjekt, deleie med tilskudd, nesodden, pilotprosjekt, tredje boligsektor as",
+    "geografi": "Nesodden, Viken",
+    "rolle_kort": "Tredje Boligsektor AS sitt pilotprosjekt med 123 planlagte boenheter.",
+    "relevans_for_TBS": "Konkret eksempel på en tredje boligsektor-modell i praksis. Kombinerer deleie med tilskudd (50%), egenkapitaltilskudd (min 15%), behovsprøving og prisregulering knyttet til sykepleierindeksen.",
+    "status": "Under utvikling",
+    "kildetype": "Referanse",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Side 7 (datakilder), Works cited ref 5; Manus: Kapittel 2.3, side 3-4, ref [2]",
+    "id_master": 14
+  },
+  {
+    "navn": "Hellvikveien 46 (pilotprosjekt)",
+    "kategori": "annet",
+    "temaer": "12 boligsosiale virkemidler, deleie, funksjonsnedsettelser, nesodden, pilotprosjekt, samlokalisering, tredje boligsektor as",
+    "geografi": "Nesodden, Viken",
+    "rolle_kort": "Tredje Boligsektor AS sitt pilotprosjekt med 40 deleieboliger og 8 boliger for unge med funksjonsnedsettelser.",
+    "relevans_for_TBS": "Referanseprosjektet som demonstrerer at modellen er realiserbar. Reguleringsplan vedtatt januar 2025. Inngangspris ca.",
+    "status": "Under utvikling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 1.1-1.2, side 1-2, ref 1, 4, 5; GPT: Kapittel 6, 7, side 12, 13; Perplexity: Side 1, 4",
+    "id_master": 15
+  },
+  {
+    "navn": "Hellvikveien 46-prosjektet",
+    "kategori": "annet",
+    "temaer": "12 boligsosiale virkemidler, pilotprosjekt, tredje boligsektor as",
+    "geografi": "Nesodden, Viken",
+    "rolle_kort": "Tredje Boligsektor AS sitt pilotprosjekt som demonstrerer 12 boligsosiale virkemidler.",
+    "relevans_for_TBS": "Allerede implementerer kommende lovkrav. Demonstrasjonsprosjekt for hvordan tredje boligsektor kan fungere i praksis.",
+    "status": "Under utvikling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1, 7",
+    "id_master": 16
+  },
+  {
+    "navn": "Henrik H. Nielsen (NTNU PhD)",
+    "kategori": "annet",
+    "temaer": "forskning, housing double binds, ntnu",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "PhD-kandidat ved NTNU som forsker på 'housing double binds'.",
+    "relevans_for_TBS": "Forskningen hans om hvordan kommunale boligplaner håndterer 'housing double binds' er relevant for å forstå barrierene Tredje Boligsektor AS møter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5",
+    "id_master": 17
+  },
+  {
+    "navn": "Housing double binds (2024)",
+    "kategori": "annet",
+    "temaer": "forskningsartikkel, kommunal boligplanlegging, sosial bærekraft",
+    "geografi": "Norge/Norden",
+    "rolle_kort": "Forskningsartikkel av H.H. Nielsen publisert i Nordic Journal of Wellbeing and Social Issues.",
+    "relevans_for_TBS": "Belyser spenningene mellom marked og velferd i kommunal boligplanlegging.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.3, side 5, ref [19]",
+    "id_master": 18
+  },
+  {
+    "navn": "Høyre",
+    "kategori": "annet",
+    "temaer": "eie-fremmende tiltak, politisk parti, privat sektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti som har signalisert støtte til eie-fremmende tiltak via privat sektor.",
+    "relevans_for_TBS": "Tverrpolitisk støtte er viktig for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 19
+  },
+  {
+    "navn": "KLP Grorud-prosjektet",
+    "kategori": "annet",
+    "temaer": "husbanken, oslo, tilvisningsavtale, utleieboliger",
+    "geografi": "Oslo (Grorud)",
+    "rolle_kort": "KLPs prosjekt på Grorud med Husbanken-lån og 20-års kommunal disposisjonsrett.",
+    "relevans_for_TBS": "Eksempel på hvordan pensjonsfond kan investere i sosial boligbygging med langsiktig perspektiv.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11, ref 60",
+    "id_master": 20
+  },
+  {
+    "navn": "Kampen om en tredje boligsektor i Oslo (2021)",
+    "kategori": "annet",
+    "temaer": "forskningsartikkel, oslo, tredje boligsektor",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Forskningsartikkel av Christiansen & Kjærås publisert i Tidsskrift for boligforskning.",
+    "relevans_for_TBS": "Analyserer fremveksten av nye aktører og ikke-kommersielle alternativer i Oslo.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.3, side 5, ref [17]",
+    "id_master": 21
+  },
+  {
+    "navn": "Kjersti Stenseng (Kommunal- og distriktsminister)",
+    "kategori": "annet",
+    "temaer": "boligpolitikk, lovendringer, minister",
+    "geografi": "Norge",
+    "rolle_kort": "Kommunal- og distriktsminister som har uttalt at målet er lov og forskrifter i kraft samtidig.",
+    "relevans_for_TBS": "Viktig politisk aktør å følge med på for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9",
+    "id_master": 22
+  },
+  {
+    "navn": "Kommunen som pådriver for alternative boligløsninger (SINTEF, 2022)",
+    "kategori": "annet",
+    "temaer": "forskningspublikasjon, kommunal boliginnovasjon",
+    "geografi": "Norge",
+    "rolle_kort": "SINTEF-publikasjon fra Bopilot-prosjektet om kommuners rolle i boliginnovasjon.",
+    "relevans_for_TBS": "Gir konkrete metodikker for kommunal boliginnovasjon.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 23
+  },
+  {
+    "navn": "Landsbyggefonden (Danmark)",
+    "kategori": "annet",
+    "temaer": "danske almene boliger, finansiering, vedlikehold",
+    "geografi": "Danmark",
+    "rolle_kort": "Dansk fond som koordinerer finansiering og vedlikehold av almene boliger.",
+    "relevans_for_TBS": "Demonstrerer hvordan en sektorovergripende finansieringsmekanisme kan fungere.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 24
+  },
+  {
+    "navn": "Leieboersamvirke",
+    "kategori": "annet",
+    "temaer": "boligmodell, leietakereie, samvirkeforetak",
+    "geografi": "Norge",
+    "rolle_kort": "Konsept fra Leieboerforeningen der beboerne leier av seg selv gjennom et samvirkeforetak som eier eiendommen.",
+    "relevans_for_TBS": "Gir leietakerne økt trygghet, stabilitet og kontroll over egen bosituasjon. Slike alternative organisasjonsformer kan være svært relevante for utviklingen av en robust tredje boligsektor.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 2.4, side 4, ref [11]",
+    "id_master": 25
+  },
+  {
+    "navn": "Lillebyen (TOBB)",
+    "kategori": "annet",
+    "temaer": "leie-før-eie, pilotprosjekt, tobb",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "TOBBs første leie-før-eie-prosjekt med 51 enheter (2017).",
+    "relevans_for_TBS": "Solgte umiddelbart med over 500 søkere. Demonstrerer etterspørselen etter alternative boligmodeller.",
+    "status": "Gjennomført",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 2",
+    "id_master": 26
+  },
+  {
+    "navn": "MDG (Miljøpartiet De Grønne)",
+    "kategori": "annet",
+    "temaer": "leie-til-eie, miljø, politisk parti",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti som har foreslått mer bruk av leie-til-eie som miljø- og sosialt tiltak.",
+    "relevans_for_TBS": "Politisk alliert for leie-til-eie-modeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 27
+  },
+  {
+    "navn": "Nederland - Boligcorporaties",
+    "kategori": "annet",
+    "temaer": "internasjonal modell, tredje sektor, utleieporteføljer",
+    "geografi": "Nederland",
+    "rolle_kort": "Nederlandsk tredje sektor bestående av boligcorporaties med store utleieporteføljer.",
+    "relevans_for_TBS": "Boligstiftelser som eier store utleieporteføljer og leier ut til moderate priser. Forskning derfra har sett på hvordan disse balanserer mellom sosialt oppdrag og forretningsdrift.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 6, ref 51",
+    "id_master": 28
+  },
+  {
+    "navn": "Norsk boligpolitikk i internasjonalt perspektiv (NOVA-rapport 7/21)",
+    "kategori": "annet",
+    "temaer": "forskningspublikasjon, internasjonal sammenligning, jardar sørvoll",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "NOVA-rapport av Jardar Sørvoll som sammenligner Norge med Østerrike, Danmark og andre land.",
+    "relevans_for_TBS": "Gir internasjonalt perspektiv på norsk boligpolitikk.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 7",
+    "id_master": 29
+  },
+  {
+    "navn": "Nye boligkjøpsmodeller – med eller mot det etablerte boligregimet? (2024)",
+    "kategori": "annet",
+    "temaer": "boligkjøpsmodeller, forskningsartikkel, nordic journal of urban studies",
+    "geografi": "Norge/Norden",
+    "rolle_kort": "Forskningsartikkel av Christiansen & Nordahl publisert i Nordic Journal of Urban Studies.",
+    "relevans_for_TBS": "Analyserer fremveksten av nye aktører og modeller, og deres forhold til det etablerte systemet.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.3, side 5, ref [18]",
+    "id_master": 30
+  },
+  {
+    "navn": "Rødt",
+    "kategori": "annet",
+    "temaer": "ikke-kommersiell boligsektor, politisk parti",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti som ønsker ikke-kommersiell boligsektor.",
+    "relevans_for_TBS": "Politisk alliert for tredje boligsektor-konseptet.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 31
+  },
+  {
+    "navn": "SV (Sosialistisk Venstreparti)",
+    "kategori": "annet",
+    "temaer": "ikke-kommersiell, politisk parti, tredje boligsektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti som har programfestet tredje boligsektor.",
+    "relevans_for_TBS": "Har lenge ønsket en ikke-kommersiell boligsektor. Politisk timing er viktig for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 32
+  },
+  {
+    "navn": "Sargfabrik",
+    "kategori": "annet",
+    "temaer": "arkitektonisk referanse, bofellesskap, wien",
+    "geografi": "Wien, Østerrike",
+    "rolle_kort": "Kjent bofellesskapsprosjekt i Wien som har inspirert norske prosjekter.",
+    "relevans_for_TBS": "Helen & Hard (Gaining by Sharing) har hentet inspirasjon direkte fra Sargfabrik og tilpasset dette til norske forhold. Relevant referanse for arkitektonisk og sosial utforming.",
+    "status": "Ferdigstilt (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.3, side 8, ref 25",
+    "id_master": 33
+  },
+  {
+    "navn": "Senterpartiet",
+    "kategori": "annet",
+    "temaer": "distriktsboliger, politisk parti",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti opptatt av distriktsboliger.",
+    "relevans_for_TBS": "Relevant for Tredje Boligsektor AS sin strategi i distriktskommuner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 34
+  },
+  {
+    "navn": "Utredning om sosial bærekraft og planbestemmelser (NIBR/Oslo Economics)",
+    "kategori": "annet",
+    "temaer": "deleie, leie-til-eie, planbestemmelser, sosial bærekraft, utredning",
+    "geografi": "Norge",
+    "rolle_kort": "Rapport fra NIBR og Oslo Economics som evaluerte leie-til-eie og deleie-modeller.",
+    "relevans_for_TBS": "Direkte relevant evaluering av boligkjøpsmodeller.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 35
+  },
+  {
+    "navn": "Venstre",
+    "kategori": "annet",
+    "temaer": "leie-til-eie, miljø, politisk parti",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Politisk parti som har foreslått mer bruk av leie-til-eie som miljø- og sosialt tiltak.",
+    "relevans_for_TBS": "Politisk alliert for leie-til-eie-modeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9-10",
+    "id_master": 36
+  },
+  {
+    "navn": "Wien-modellen",
+    "kategori": "annet",
+    "temaer": "ideelle utbyggere, internasjonal modell, kommunale boliger, kommunalt tomteeierskap, kooperative boliger, kooperativer, non-profit, prisregulering, sosial blanding, sosiale boliger, wohnfonds wien",
+    "geografi": "Wien, Østerrike",
+    "rolle_kort": "Internasjonal referansemodell hvor kommunen eier store tomtearealer og samarbeider med ideelle utbyggere.",
+    "relevans_for_TBS": "Forskning på Wien viser at vedvarende offentlig engasjement på tilbudssiden (billige tomter og subsidiert bygging) holder bokostnadene nede. Wohnfonds Wien (kommunalt tomteselskap) kjøper opp land, klargjør og selger/leier det billig til ikke-kommersielle boligbyggelag. Resultatet er at rundt halvparten av nye boliger i Wien i dag bygges til under markedspris.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 4.3, side 9, ref 14; GPT: Kapittel 3, side 5-6, ref 46; Claude: Side 6; Manus: Kapittel 3.4, side 5, ref [20]; Perplexity: Side 6-7, ref. 31-33, 123, 126",
+    "id_master": 37
+  },
+  {
+    "navn": "Wohnfonds Wien",
+    "kategori": "annet",
+    "temaer": "offentlig investering, tomtebanking, wien-modellen",
+    "geografi": "Wien, Østerrike",
+    "rolle_kort": "Wiens tomtebankingsorgan med årlige investeringer på 500 millioner euro.",
+    "relevans_for_TBS": "Demonstrerer hvordan aktiv offentlig tomtebanking kan sikre langsiktig tilbud av rimelige boliger.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 38
+  },
+  {
+    "navn": "Zürich-modellen",
+    "kategori": "annet",
+    "temaer": "internasjonal modell, kooperativer",
+    "geografi": "Zürich, Sveits",
+    "rolle_kort": "Sveitsisk modell med sterke boligkooperativer.",
+    "relevans_for_TBS": "Nevnt som referanse sammen med Wien og København.",
+    "status": "Aktiv (internasjonal referanse)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, 4, side 6, ref 69",
+    "id_master": 39
+  },
+  {
+    "navn": "'Den tredje boligsektor - hva kan det bli, og hvorfor trenger vi det?' (2022)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "tredje boligsektor, wien, zürich",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Boligkonferanse i Oslo 2022 arrangert av NAL og samfunnsøkonomer.",
+    "relevans_for_TBS": "Der ble Zürich og Wien trukket frem som inspirasjon, men også understreket at Norge må finne sin egen variant innenfor vår kontekst.",
+    "status": "Avsluttet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 6",
+    "id_master": 40
+  },
+  {
+    "navn": "Arendalsuka (Boligdag)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "bolig, boligpolitikk, debatt, politikk",
+    "geografi": "Arendal, Norge",
+    "rolle_kort": "Årlig politisk festival med boligpolitiske debatter.",
+    "relevans_for_TBS": "Også andre konferanser som Arendalsuka (som hver august har flere boligpolitiske debatter) er relevante.",
+    "status": "Planlagt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13; Claude: Side 6",
+    "id_master": 41
+  },
+  {
+    "navn": "Boligfestival Wien",
+    "kategori": "arrangement_konferanse",
+    "temaer": "internasjonal, studietur, wien-modellen",
+    "geografi": "Wien, Østerrike",
+    "rolle_kort": "Arrangement/studietur til Wien for å lære om Wien-modellen.",
+    "relevans_for_TBS": "Mulighet for å lære fra Wien-modellen.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 126",
+    "id_master": 42
+  },
+  {
+    "navn": "Boligkonferansen 'Boligpulsen'",
+    "kategori": "arrangement_konferanse",
+    "temaer": "boligpolitikk, husbanken, årlig konferanse",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens årlige konferanse hvor kommuner, politikere og næringsliv møtes.",
+    "relevans_for_TBS": "Arena hvor Tredje Boligsektor AS kan løfte frem Hellvikveien 46 som case og presentere nye forskningsfunn og suksesshistorier.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13",
+    "id_master": 43
+  },
+  {
+    "navn": "Boligkonferansen (Boligprodusentene)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "boligproduksjon, boligprodusentene, industri, konferanse, politikk",
+    "geografi": "Norge",
+    "rolle_kort": "16. års konferanse arrangert av Boligprodusentene 20.",
+    "relevans_for_TBS": "Arena for bransjediskusjoner og nettverksbygging.",
+    "status": "Planlagt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6; Perplexity: ref. 60",
+    "id_master": 44
+  },
+  {
+    "navn": "Boligpulsen (Husbanken)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "case-presentasjon, husbanken, konferanse, nasjonal konferanse, posisjonering",
+    "geografi": "Norge",
+    "rolle_kort": "Ny nasjonal konferanse arrangert av Husbanken 19.-20. mars 2025.",
+    "relevans_for_TBS": "Mellomlang sikt: Presenter Hellvikveien 46 på Boligpulsen 2026/2027.",
+    "status": "Planlagt",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6; Perplexity: Side 4, ref. 18",
+    "id_master": 45
+  },
+  {
+    "navn": "Boligsosial konferanse 2025 (Statsforvalteren Agder)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "agder, boligsosialt arbeid, konferanse",
+    "geografi": "Agder, Norge",
+    "rolle_kort": "Regional boligsosial konferanse i Agder.",
+    "relevans_for_TBS": "Arena for regional nettverksbygging.",
+    "status": "Planlagt 2025",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 61",
+    "id_master": 46
+  },
+  {
+    "navn": "Boligsosiale nettverksmøter (Statsforvalteren)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "boligsosialt arbeid, kommuner, nettverksmøter",
+    "geografi": "Norge (regionalt)",
+    "rolle_kort": "Regionale nettverksmøter arrangert av Statsforvalteren.",
+    "relevans_for_TBS": "Kortsiktig prioritet: Presenter på boligsosiale nettverksmøter.",
+    "status": "Løpende",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 4, ref. 14-15, 61, 77, 124-125",
+    "id_master": 47
+  },
+  {
+    "navn": "Citykonferansen",
+    "kategori": "arrangement_konferanse",
+    "temaer": "byutvikling, norsk eiendom",
+    "geografi": "Norge",
+    "rolle_kort": "Konferanse om byutvikling arrangert av Norsk Eiendom 23. april 2025.",
+    "relevans_for_TBS": "Arena for byutviklingsdiskusjoner.",
+    "status": "Planlagt",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 48
+  },
+  {
+    "navn": "Eiendom Norge-konferansen",
+    "kategori": "arrangement_konferanse",
+    "temaer": "boligmarked, eiendom, markedstrender, politikk, utviklere",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Konferanse arrangert av Eiendom Norge 8. april 2025.",
+    "relevans_for_TBS": "Relevant arena for å nå eiendomsutviklere.",
+    "status": "Planlagt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13; Claude: Side 6",
+    "id_master": 49
+  },
+  {
+    "navn": "KBLs konferanse 2024",
+    "kategori": "arrangement_konferanse",
+    "temaer": "fra leid til eid, kommunalt boligansvar",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "KBLs konferanse med tema 'Lov om kommunens boligsosiale ansvar' og 'fra leid til eid'-prosjekter.",
+    "relevans_for_TBS": "Viser at KBL-medlemmene (kommunene) er svært interesserte i løsninger som Tredje Boligsektor AS tilbyr.",
+    "status": "Avsluttet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13, ref 67, 68",
+    "id_master": 50
+  },
+  {
+    "navn": "Nordisk boligkonferanse (NBO)",
+    "kategori": "arrangement_konferanse",
+    "temaer": "boligpolitikk, nordisk samarbeid",
+    "geografi": "Norden (Stockholm 2024)",
+    "rolle_kort": "Toårig nordisk boligkonferanse arrangert av NBO Housing Nordic.",
+    "relevans_for_TBS": "Nøkkelarena for nordisk nettverksbygging og læring fra danske almene boliger og finske Housing First-modeller.",
+    "status": "Gjennomført (2024)",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 51
+  },
+  {
+    "navn": "Proptech Summit",
+    "kategori": "arrangement_konferanse",
+    "temaer": "eiendomsteknologi, innovasjon, proptech",
+    "geografi": "Norge",
+    "rolle_kort": "Årlig konferanse arrangert av PropTech Norway.",
+    "relevans_for_TBS": "Arena for å koble eiendom med teknologi og møte potensielle teknologipartnere.",
+    "status": "Årlig",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 4",
+    "id_master": 52
+  },
+  {
+    "navn": "Zerokonferansen",
+    "kategori": "arrangement_konferanse",
+    "temaer": "grønn boligpolitikk, miljø, sosial bærekraft",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Konferanse om grønn boligpolitikk som kan kobles mot sosial bærekraft.",
+    "relevans_for_TBS": "Relevant for å koble miljø- og sosial bærekraft i boligprosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13",
+    "id_master": 53
+  },
+  {
+    "navn": "DNB",
+    "kategori": "finansiering_kilde",
+    "temaer": "banklån, boligfinansiering, deleie-produkter, førstegangskjøpslån",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Norges største bank som har lansert førstegangskjøpslån med fleksibelt egenkapitalkrav.",
+    "relevans_for_TBS": "Tredje Boligsektor AS bør gå i dialog om å utvikle egne låneprodukter for kjøp av deleie-andeler, slik at kundene får konkurransedyktige vilkår også på den private delen av finansieringen.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.3, side 11; GPT: Kapittel 6, side 11",
+    "id_master": 54
+  },
+  {
+    "navn": "EU's Affordable Housing Initiative",
+    "kategori": "finansiering_kilde",
+    "temaer": "bærekraftig bolig, eu-midler, lighthouse projects",
+    "geografi": "Europa",
+    "rolle_kort": "EU-program med 'lighthouse projects' for bærekraftig og rimelig boligutvikling.",
+    "relevans_for_TBS": "Norge kan som EØS-land delta indirekte eller gjennom partnerskap. Dersom Tredje Boligsektor AS samarbeider med en aktør i f.eks. Sverige eller Danmark om et prosjekt, kan man søke EU-midler til innovasjon.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11, ref 63",
+    "id_master": 55
+  },
+  {
+    "navn": "EU's Affordable Housing Plan",
+    "kategori": "finansiering_kilde",
+    "temaer": "eu-finansiering, rimelige boliger",
+    "geografi": "Europa",
+    "rolle_kort": "EU-program for finansiering av rimelige boliger.",
+    "relevans_for_TBS": "Å utforske mulighetene for å koble norske tredje boligsektor-prosjekter til disse europeiske initiativene kan åpne for nye, store finansieringskilder.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 6.4, side 10, ref [36]",
+    "id_master": 56
+  },
+  {
+    "navn": "Eika Boligkreditt",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligfinansiering, grønne obligasjoner",
+    "geografi": "Norge",
+    "rolle_kort": "Bank som tilbyr grønn obligasjonsfinansiering for boliger.",
+    "relevans_for_TBS": "Kan være relevant for finansiering av energieffektive tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 57
+  },
+  {
+    "navn": "European Investment Bank (EIB)",
+    "kategori": "finansiering_kilde",
+    "temaer": "bærekraft, eu-finansiering, rimelige boliger",
+    "geografi": "Europa",
+    "rolle_kort": "Europeisk investeringsbank som har doblet sin finansiering til rimelige og bærekraftige boliger.",
+    "relevans_for_TBS": "Gjennom EØS-avtalen har norske aktører tilgang til visse europeiske finansieringsprogrammer. EIB tilbyr lån og garantier som del av EU's Affordable Housing Plan.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 6.4, side 10, ref [36]",
+    "id_master": 58
+  },
+  {
+    "navn": "Ferd Impact Investing",
+    "kategori": "finansiering_kilde",
+    "temaer": "bærekraftige bygg, impact investing, sosial avkastning, tidligfase-kapital",
+    "geografi": "Norge",
+    "rolle_kort": "Impact-investor som søker både finansiell og sosial avkastning.",
+    "relevans_for_TBS": "Kan være ideell partner for en tredje boligsektor-aktør som kan dokumentere sin sosiale effekt.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 6.2, side 9, ref [34]; Perplexity: Side 7, ref. 20, 55",
+    "id_master": 59
+  },
+  {
+    "navn": "Ferd Sosiale Entreprenører (Ferd SE)",
+    "kategori": "finansiering_kilde",
+    "temaer": "impact investing, impact-kapital, sosiale entreprenører, startup-plattform, tålmodig kapital",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Investerer i sosiale entreprenører med 'social mission at heart' og har finansiert 70+ sosiale virksomheter.",
+    "relevans_for_TBS": "Mest naturlige kapitalkilden for vekstselskapet. Lang historie med å investere i sosiale entreprenører. Har uttalt ønske om å investere i løsninger som motvirker utenforskap - kjernen i Tredje Boligsektor AS sin misjon.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.1, side 11, ref 30; GPT: Kapittel 6, side 10-11; Claude: Side 4-5; Perplexity: Side 4-5, ref. 19-20, 52, 55, 57, 108, 111",
+    "id_master": 60
+  },
+  {
+    "navn": "Folkeinvest",
+    "kategori": "finansiering_kilde",
+    "temaer": "crowdfunding, folkefinansiering",
+    "geografi": "Norge",
+    "rolle_kort": "OBOS' tidligere crowdfunding-forsøk for boligprosjekter.",
+    "relevans_for_TBS": "Folkefinansiering har mest vært brukt til oppstartsselskaper, men det var mer investeringsfokus enn sosialt. Internasjonalt finnes plattformer der folk kan investere i sosial boligbygging for lav avkastning som en form for etisk investering.",
+    "status": "Avsluttet",
+    "kildetype": "Referanse",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11",
+    "id_master": 61
+  },
+  {
+    "navn": "Grunnlån (Husbanken)",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligfinansiering, utvikling",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens låneordning for boligutvikling.",
+    "relevans_for_TBS": "Relevant finansieringskilde for utvikling av tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 7",
+    "id_master": 62
+  },
+  {
+    "navn": "Grønne obligasjoner",
+    "kategori": "finansiering_kilde",
+    "temaer": "energiklasse, grønn finansiering, svanemerket",
+    "geografi": "Norge",
+    "rolle_kort": "Finansieringsform for boliger med energiklasse A/B eller Svanemerket-krav.",
+    "relevans_for_TBS": "Banker som tilbyr dette inkluderer Eika Boligkreditt, Spareskillingsbanken og Danske Bank. Potensielt lavere renter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 63
+  },
+  {
+    "navn": "Horizon Europe",
+    "kategori": "finansiering_kilde",
+    "temaer": "eu-finansiering, eu-midler, forskning, innovasjon, sosial boligbygging",
+    "geografi": "Europa",
+    "rolle_kort": "EU-utlysning med opptil 16 millioner euro per prosjekt for innovative sosiale boligprosjekter.",
+    "relevans_for_TBS": "Søknadsfrist 12. november 2025. Støtter 'Innovative approaches for sustainable, inclusive and beautiful social and affordable housing'.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 12, ref 64; Claude: Side 4-5; Perplexity: Side 7",
+    "id_master": 64
+  },
+  {
+    "navn": "Impact Investors (generelt)",
+    "kategori": "finansiering_kilde",
+    "temaer": "esg, impact investing, tålmodig kapital",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "Investorer som søker både sosial effekt og økonomisk avkastning.",
+    "relevans_for_TBS": "Mest naturlige kapitalkilden for Tredje Boligsektor AS. Internasjonalt vokser 'impact investing' i eiendom kraftig, drevet av investorer som ser etter stabile, inflasjonssikrede investeringer med ESG-profil.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.1, side 2 (økosystemkart), side 11, ref 2",
+    "id_master": 65
+  },
+  {
+    "navn": "Impact-fond (generelt)",
+    "kategori": "finansiering_kilde",
+    "temaer": "bolig i portefølje, impact investing",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "Impact-investorer med bolig i porteføljen.",
+    "relevans_for_TBS": "30% av impact-investorer har bolig i porteføljen. Relevant finansieringskilde.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 7, ref. 34",
+    "id_master": 66
+  },
+  {
+    "navn": "Innovasjon Norge",
+    "kategori": "finansiering_kilde",
+    "temaer": "forretningsutvikling, innovasjon, innovasjonspartnerskap, offentlig støtte, sosiale entreprenører, tilskudd",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statlig aktør for støtte til innovasjon og forretningsutvikling.",
+    "relevans_for_TBS": "Kan spille en rolle i utvikling av forretningsmodellen og teknologien. Innovasjonspartnerskap hvor offentlige og private aktører går sammen om å løse en samfunnsutfordring er en aktuell modell.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.2, side 11; GPT: Kapittel 6, side 12; Manus: Kapittel 6.1, side 9, ref [32]",
+    "id_master": 67
+  },
+  {
+    "navn": "Interreg",
+    "kategori": "finansiering_kilde",
+    "temaer": "eu-program, grenseoverskridende prosjekter, region-samarbeid",
+    "geografi": "Europa/Norden",
+    "rolle_kort": "EUs program for region-samarbeid som har støttet prosjekter om bolig i Norden.",
+    "relevans_for_TBS": "F.eks. svenske Alingsås kommune tester norsk deleie-modell via Interreg. Dette kan gi støtte om man lager et prosjekt i Norden tidligere.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11",
+    "id_master": 68
+  },
+  {
+    "navn": "KLP (Kommunal Landspensjonskasse)",
+    "kategori": "finansiering_kilde",
+    "temaer": "pensjonsfond, tilvisningsavtaler, utleieboliger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Norges største pensjonsfond som investerer i utleieboliger.",
+    "relevans_for_TBS": "Eier rundt 1200 utleieleiligheter og har inngått tilvisningsavtaler med Oslo kommune. Prosjekt på Grorud med Husbanken og 20-års kommunal disposisjonsrett. 'Pasient' kapital som krever jevn, lav risiko avkastning - kan være glimrende kilde for tredje sektor.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11, ref 60",
+    "id_master": 69
+  },
+  {
+    "navn": "Katinka Greve Leiner",
+    "kategori": "finansiering_kilde",
+    "temaer": "ferd, impact investing, sosiale entreprenører",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Direktør for Ferd Sosiale Entreprenører.",
+    "relevans_for_TBS": "Nøkkelkontakt for tilgang til Ferd Sosiale Entreprenører og Impact StartUp-plattformen.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 70
+  },
+  {
+    "navn": "Kommunale investeringer/tilvisningsavtaler",
+    "kategori": "finansiering_kilde",
+    "temaer": "kjøpsavtaler, kommunal finansiering, tilvisningsavtaler",
+    "geografi": "Norge",
+    "rolle_kort": "Kommunale kjøpsavtaler og tilvisningsavtaler som finansieringsform.",
+    "relevans_for_TBS": "Relevant finansieringsmodell for samarbeid med kommuner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 7",
+    "id_master": 71
+  },
+  {
+    "navn": "Kommunale tomtefond",
+    "kategori": "finansiering_kilde",
+    "temaer": "kommunal finansiering, tomtebidrag",
+    "geografi": "Norge (kommunalt)",
+    "rolle_kort": "Fond som noen kommuner har dedikert til å fremme ønsket boligutvikling.",
+    "relevans_for_TBS": "Kommuner kan bidra med tomtebidrag (redusert pris eller festekontrakter), direkte tilskudd eller garantier.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 6.3, side 9",
+    "id_master": 72
+  },
+  {
+    "navn": "Living Impact",
+    "kategori": "finansiering_kilde",
+    "temaer": "eiendom, impact investing, privat kapital, sosiale formål, sosialt virkningsfulle investeringer",
+    "geografi": "Norge",
+    "rolle_kort": "Eiendomsselskap som fokuserer på sosialt virkningsfulle eiendomsinvesteringer.",
+    "relevans_for_TBS": "Registrert hos Finanstilsynet. Representerer en ny type investorer som søker både finansiell og sosial avkastning, og kan være ideell partner for tredje boligsektor-aktører.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11; Manus: Kapittel 2.2, 6.2, side 3, 9, ref [10], [34]",
+    "id_master": 73
+  },
+  {
+    "navn": "Lån til boligkvalitet (Husbanken)",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligfinansiering, miljø, tilgjengelighet",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Finansierer opp til 85% av prosjektkostnaden for boliger med høye miljø- eller tilgjengelighetsstandarder.",
+    "relevans_for_TBS": "Én milliard kroner er øremerket distriktskommuner. Lånet kan overføres til kjøpere gjennom tilsagnsmodeller, noe som gjør det ideelt for prisregulerte boliger.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1",
+    "id_master": 74
+  },
+  {
+    "navn": "Lån til utleieboliger (Husbanken)",
+    "kategori": "finansiering_kilde",
+    "temaer": "offentlig-privat partnerskap, tilvisningsavtaler, utleieboliger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Gir private utbyggere mulighet til å bygge med Husbanken-finansiering mens kommunen har tilvisningsrett.",
+    "relevans_for_TBS": "Kommunen har tilvisningsrett til 40% av boligene i minimum 20 år. Muliggjør offentlig-private partnerskap tilsvarende Tredje Boligsektors modell.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1",
+    "id_master": 75
+  },
+  {
+    "navn": "Northern Horizon's Social Infrastructure Fund",
+    "kategori": "finansiering_kilde",
+    "temaer": "norden, omsorgsboliger, sosial infrastruktur",
+    "geografi": "Norden",
+    "rolle_kort": "Fond som har investert i omsorgsboliger i Norden.",
+    "relevans_for_TBS": "Selv om den fokuserer på eldreomsorg, viser det at det finnes kapital interessert i sosial infrastruktur.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11, ref 59",
+    "id_master": 76
+  },
+  {
+    "navn": "Nysnø",
+    "kategori": "finansiering_kilde",
+    "temaer": "grønn omstilling, klimainvesteringer, statlig fond",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statlig investeringsselskap med klimafokus.",
+    "relevans_for_TBS": "Potensiell partner for prosjekter med sterkt miljøfokus. Relevant gitt kravene til miljø og livsløpsstandard i Grunnlån-finansierte prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.1, side 11, ref 31",
+    "id_master": 77
+  },
+  {
+    "navn": "OBOS-banken",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligfinansiering, deleie boliglån",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Bank som har lansert spesialproduktet 'Deleie boliglån'.",
+    "relevans_for_TBS": "Tar høyde for at OBOS eier resten av boligen. Andre banker følger etter med lignende produkter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11, ref 61",
+    "id_master": 78
+  },
+  {
+    "navn": "Regionale forskningsfond",
+    "kategori": "finansiering_kilde",
+    "temaer": "innovasjon, regional utvikling, tilskudd",
+    "geografi": "Norge (regionalt)",
+    "rolle_kort": "Norske fond som kan søkes for tilskudd til innovasjon.",
+    "relevans_for_TBS": "Selskapet bør også vurdere å søke tilskudd til innovasjon nasjonalt (Regionale forskningsfond, Innovasjon Norge) og internasjonalt (Horizon Europe).",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 12",
+    "id_master": 79
+  },
+  {
+    "navn": "Regionale sparebankstiftelser",
+    "kategori": "finansiering_kilde",
+    "temaer": "gaver, regional utvikling, tilskudd",
+    "geografi": "Norge (regionalt)",
+    "rolle_kort": "Regionale stiftelser som deler ut midler til allmennyttige formål.",
+    "relevans_for_TBS": "Kan være aktuelle for støtte til boligsosiale prosjekter i sine regioner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 6.2, side 9, ref [35]",
+    "id_master": 80
+  },
+  {
+    "navn": "Samfunnssentralen (TD Veen)",
+    "kategori": "finansiering_kilde",
+    "temaer": "bærekraftige bygg, impact investing, stavanger",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Impact investor i Stavanger med fokus på bærekraftige bygg.",
+    "relevans_for_TBS": "Potensiell partner for prosjekter i Stavanger-regionen. Relevant for bærekraftige bygg og impact investing.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.1, side 11, ref 31",
+    "id_master": 81
+  },
+  {
+    "navn": "Sosiale obligasjoner / Housing Bonds",
+    "kategori": "finansiering_kilde",
+    "temaer": "etisk investering, fremtidig mulighet, obligasjoner",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "Fremtidig finansieringsmodell hvor investorer låner penger til selskapet mot en gitt rente.",
+    "relevans_for_TBS": "Hvis Tredje Boligsektor AS oppnår allmenn kjent navn og tillit, kunne de vurdert en slik modell: f.eks. utstede 'sosiale obligasjoner' eller Housing Bonds der investorene låner penger til selskapet mot en gitt rente, og midlene går til å bygge rimelige boliger.",
+    "status": "Fremtidig mulighet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11",
+    "id_master": 82
+  },
+  {
+    "navn": "SpareBank 1",
+    "kategori": "finansiering_kilde",
+    "temaer": "banklån, boligfinansiering, deleie-produkter, samfunnsansvar",
+    "geografi": "Norge (nasjonal/regional)",
+    "rolle_kort": "Bankgruppe med tradisjon for samfunnsengasjement, potensiell partner for deleie-lån.",
+    "relevans_for_TBS": "Alternativ til DNB for utvikling av låneprodukter for deleie-andeler. Sparebankene har lang tradisjon for samfunnsengasjement.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.3, side 11",
+    "id_master": 83
+  },
+  {
+    "navn": "SpareBank 1 SMN",
+    "kategori": "finansiering_kilde",
+    "temaer": "bankpartner, regional bank, tobb, tobb deleie, økonomisk rådgivning",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "Regional bank som har samarbeidet med TOBB om finansiering av TOBB Deleie-boliger.",
+    "relevans_for_TBS": "Banker ser at de kan få nye kunder med vekstpotensial gjennom slike ordninger.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 11; Claude: Side 2",
+    "id_master": 84
+  },
+  {
+    "navn": "Sparebankstiftelsen DNB",
+    "kategori": "finansiering_kilde",
+    "temaer": "allmennyttige formål, gavemidler, gaver, lokalsamfunn, tilskudd",
+    "geografi": "Norge (diverse regioner)",
+    "rolle_kort": "Stiftelse som deler ut betydelige midler til allmennyttige formål.",
+    "relevans_for_TBS": "Kan være mulig å søke støtte til fellesarealer, parsellhager eller sosiale aktiviteter i boligprosjektene som reduserer byggekostnadene for beboerne.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.3, side 11; Manus: Kapittel 6.2, side 9, ref [35]",
+    "id_master": 85
+  },
+  {
+    "navn": "Startlån (finansieringsordning)",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligfinansiering, førstegangsetablerere, kommunal ordning, lav egenkapital, vanskeligstilte",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Kommunenes viktigste verktøy for å bistå vanskeligstilte inn på boligmarkedet.",
+    "relevans_for_TBS": "Over 17 milliarder kroner utbetalt i 2024 til nesten 8000 husstander. 60% til barnefamilier, 68% av mottakerne eide ikke bolig fra før. Treffer nøyaktig målgruppen for Hellvikveien-modellen.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, side 3, ref 8; Claude: Side 1; Perplexity: Side 7, ref. 11",
+    "id_master": 86
+  },
+  {
+    "navn": "TD Veen",
+    "kategori": "finansiering_kilde",
+    "temaer": "impact investing",
+    "geografi": "Norge",
+    "rolle_kort": "Nevnt som impact-investor.",
+    "relevans_for_TBS": "Potensiell partner for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 6, side 12",
+    "id_master": 87
+  },
+  {
+    "navn": "Tilskudd til boligsosiale tiltak (Husbanken)",
+    "kategori": "finansiering_kilde",
+    "temaer": "boligsosiale tiltak, eksperimentelle boligmodeller, husbanken, pilotprosjekter, tilskudd",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Finansierer pilotprosjekter og eksperimentelle boligmodeller med 37,5 millioner kroner i 2024-2025.",
+    "relevans_for_TBS": "Direkte anvendbart for å dokumentere og skalere alternative boligkonsepter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1; Perplexity: Side 4, ref. 10-11",
+    "id_master": 88
+  },
+  {
+    "navn": "URBACT",
+    "kategori": "finansiering_kilde",
+    "temaer": "byutvikling, eu-program",
+    "geografi": "Europa",
+    "rolle_kort": "EU-program for bærekraftig byutvikling.",
+    "relevans_for_TBS": "Tilgjengelig via EØS. Relevant for byutviklingsprosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 7",
+    "id_master": 89
+  },
+  {
+    "navn": "BOVEL (Senter for bolig- og velferdsforskning)",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligforskning, kommunal boligsektor, lavinntektsgrupper, offentlig politikk, velferdsforskning",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Knutepunkt for forskning på lavinntektsgrupper, den kommunale boligsektoren og effekter av offentlig politikk.",
+    "relevans_for_TBS": "Finansiert av Kommunal- og distriktsdepartementet (2022-2024, med mulighet for 5 års forlengelse). Forsker på sammenhengen mellom bosituasjon og andre velferdsområder, effekter av offentlig boligpolitikk, og kommunal boligsektor. Viktig partner for forskningsstøtte og dokumentasjon.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3; Manus: Kapittel 3.1, side 4-5, ref [13]",
+    "id_master": 90
+  },
+  {
+    "navn": "BOVEL - Senter for bolig- og velferdsforskning",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligsosial forskning, bostøtte, leiemarked, nibr, oslomet, startlån",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Tyngdepunktet for norsk boligsosial forskning, del av OsloMet/NIBR.",
+    "relevans_for_TBS": "Ledet av Jardar Sørvoll som har uttalt at Husbanken er nøkkelen til tredje sektor. Tredje Boligsektor AS bør aktivt søke å bli en case i BOVELs forskningsprosjekter. Uavhengig følgeforskning av Hellvikveien 46 vil være kraftig salgsargument.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 4.1, side 8, ref 6",
+    "id_master": 91
+  },
+  {
+    "navn": "Bopilot-prosjektet",
+    "kategori": "forskningsmiljo",
+    "temaer": "alternative boligløsninger, bergen, handlingsrettet forskning, kommunal boliginnovasjon, kommunal innovasjon",
+    "geografi": "Norge (Bergen, Trondheim)",
+    "rolle_kort": "Forskningsprosjekt (2018-2022) som undersøkte hvordan kommuner kan være pådrivere for alternative boligløsninger.",
+    "relevans_for_TBS": "Samarbeid mellom SINTEF, NTNU, Bergen og Trondheim kommuner, NAL og Husbanken. Ga konkrete metodikker for kommunal boliginnovasjon. Nøkkelpublikasjoner: 'Kommunen som pådriver for alternative boligløsninger' (SINTEF, 2022) og 'På vei mot en sosialt bærekraftig tredje boligsektor' (Tidsskrift for boligforskning, 2022).",
+    "status": "Avsluttet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.2, 4.2, side 4, 9, ref 15; Claude: Side 3",
+    "id_master": 92
+  },
+  {
+    "navn": "Eli Støa",
+    "kategori": "forskningsmiljo",
+    "temaer": "arkitektur, boligforskning, bopilot",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Professor ved NTNU og Bopilot-leder.",
+    "relevans_for_TBS": "Viktig kontakt for forskningsstøtte og dokumentasjon. Kontakt: eli.stoa@ntnu.no",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3, 7",
+    "id_master": 93
+  },
+  {
+    "navn": "Gro Sandkjær Hanssen",
+    "kategori": "forskningsmiljo",
+    "temaer": "byutvikling, planforskning, sosial bærekraft",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Leder prosjektet 'Den sosialt bærekraftige byen' ved NIBR.",
+    "relevans_for_TBS": "Utvikler kunnskap om inkluderende lokale boligmarkeder gjennom NIBR-forskning.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 94
+  },
+  {
+    "navn": "GrowLab",
+    "kategori": "forskningsmiljo",
+    "temaer": "kommunal boligpolitikk, kunnskapsgrunnlag",
+    "geografi": "Norge",
+    "rolle_kort": "Kunnskapsmiljø med fokus på kommunal boligpolitikk.",
+    "relevans_for_TBS": "Relevant kunnskapsgrunnlag for kommunal boligpolitikk.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 94",
+    "id_master": 95
+  },
+  {
+    "navn": "Housing Lab (OsloMet)",
+    "kategori": "forskningsmiljo",
+    "temaer": "bidding war index, boligmarked, boligmarkedsforskning, bubble index, politikkeffekter, prisutvikling, startlån",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Nasjonalt senter for boligmarkedsforskning som analyserer mikro- og makroaspekter ved boligmarkedet.",
+    "relevans_for_TBS": "Utvikler verktøy som Bubble Index og Bidding War Index, og forsker på finansiell stabilitet og tilbudssiden i markedet. Deres analyser gir viktig bakteppe for å forstå markedspresset som driver behovet for en tredje sektor.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5; Manus: Kapittel 3.1, side 4-5, ref [12]",
+    "id_master": 96
+  },
+  {
+    "navn": "Inkluderende byutvikling (NTNU/SINTEF)",
+    "kategori": "forskningsmiljo",
+    "temaer": "fortetting, klima, miljø, sosiale hensyn",
+    "geografi": "Norge",
+    "rolle_kort": "Felles prosjekt mellom NTNU og SINTEF om inkluderende byutvikling.",
+    "relevans_for_TBS": "Ser på hvordan man kan unngå fortetting og transformasjon utelukkende - fokuserer på klima/miljø, men også ivaretar sosiale hensyn. Kan ha case-studier fra norske byer relevant for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5, ref 45",
+    "id_master": 97
+  },
+  {
+    "navn": "Jardar Sørvoll",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligforskning, boligpolitikk, boligsosial vending, husleielov, internasjonal boligpolitikk, nova",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Forskningsprofessor og BOVEL-leder som ledet Husleielovutvalget (NOU 2024:19).",
+    "relevans_for_TBS": "Har skrevet om utviklingen av norsk boligpolitikk - hans verk 'Boligsosial vending' viser hvordan staten fra 1990-tallet gikk fra generell boligbygging til mer målrettede tiltak mot utsatte grupper. Gir viktig bakgrunn for tredje sektor-konseptet.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5, ref 42, 43; Claude: Side 3, 7",
+    "id_master": 98
+  },
+  {
+    "navn": "NIBR (By- og regionforskningsinstituttet)",
+    "kategori": "forskningsmiljo",
+    "temaer": "bolig for velferd, boligforskning, boligpolitikk, boligsosial politikk, boområder, byutvikling, evaluering, levekår, planbestemmelser, planforskning, planlegging, regionforskning, sosial bærekraft",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Forskningsinstitutt ved OsloMet som forsker på byutvikling, boligpolitikk og planlegging.",
+    "relevans_for_TBS": "Prosjektet 'Den sosialt bærekraftige byen' (ledet av Gro Sandkjær Hanssen) utvikler kunnskap om inkluderende lokale boligmarkeder. Rapporten 'Utredning om sosial bærekraft og planbestemmelser' (med Oslo Economics) evaluerte leie-til-eie og deleie-modeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 4.1, side 2 (økosystemkart), side 8; GPT: Kapittel 3, side 4; Claude: Side 3; Manus: Kapittel 3.1, side 5, ref [14]; Perplexity: Side 4-5, ref. 12-13",
+    "id_master": 99
+  },
+  {
+    "navn": "NOVA (Velferdsforskningsinstituttet)",
+    "kategori": "forskningsmiljo",
+    "temaer": "boforhold, boligpolitikk, bærekraft, energieffektivisering, helse, livskvalitet, samfunnsvirkninger, tilskudd, velferdsforskning",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Forskningsinstitutt ved OsloMet med fokus på sammenhengen mellom boforhold og helse/livskvalitet.",
+    "relevans_for_TBS": "Har sett på sammenhengen mellom boforhold og helse/livskvalitet i ulike befolkningsgrupper.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 4-5; Manus: Kapittel 6.1, side 9, ref [33]; Perplexity: Side 6, ref. 26",
+    "id_master": 100
+  },
+  {
+    "navn": "NTNU",
+    "kategori": "forskningsmiljo",
+    "temaer": "arkitektur, barrierer, boligforskning, bopilot, planlegging, sosial bærekraft, sosialt arbeid, tredje boligsektor",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Universitet med forskning på barrierer for etablering av tredje boligsektor.",
+    "relevans_for_TBS": "Har forskere ved Institutt for sosialt arbeid og Institutt for arkitektur og planlegging som ser på sosial bærekraft i byutvikling. PhD-arbeid av Henrik H. Nielsen om 'housing double binds'.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 4.2, side 9, ref 27; GPT: Kapittel 3, side 4-5, ref 45; Claude: Side 3, 7",
+    "id_master": 101
+  },
+  {
+    "navn": "NTNU - Senter for Bolig- og Miljøøkonomi",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligmarkedet, boligtilfredshet, miljøøkonomi, økonomiske analyser",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Senter ved NTNU som bidrar med økonomiske analyser av boligmarkedet.",
+    "relevans_for_TBS": "Fokus på blant annet boligtilfredshet og miljøøkonomi.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.2, side 5, ref [16]",
+    "id_master": 102
+  },
+  {
+    "navn": "NTNU WellFare",
+    "kategori": "forskningsmiljo",
+    "temaer": "sosial bærekraft, velferdsforskning",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Forskningssenter ved NTNU med fokus på sosial bærekraft.",
+    "relevans_for_TBS": "Forsker på sosial bærekraft. Relevant for dokumentasjon av sosiale effekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 6, ref. 27",
+    "id_master": 103
+  },
+  {
+    "navn": "Nordic Welfare Research",
+    "kategori": "forskningsmiljo",
+    "temaer": "komparativ forskning, nordisk boligpolitikk",
+    "geografi": "Norden",
+    "rolle_kort": "Forskernettverk som sammenligner boligpolitikk i Norden.",
+    "relevans_for_TBS": "Norsk forskning bør også se på modeller fra andre nordiske land.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 6",
+    "id_master": 104
+  },
+  {
+    "navn": "Nordisk forskningssenter for livskvalitet og sosial bærekraft (NTNU)",
+    "kategori": "forskningsmiljo",
+    "temaer": "livskvalitet, nordisk, sosial bærekraft",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Nordisk forskningssenter ved NTNU.",
+    "relevans_for_TBS": "Relevant for nordisk perspektiv på sosial bærekraft i boligsektoren.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 27",
+    "id_master": 105
+  },
+  {
+    "navn": "OsloMet",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligforskning, housing lab, nibr, nova",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Universitet med sentrale forskningsmiljøer på bolig, velferd og planlegging.",
+    "relevans_for_TBS": "Vertsinstitusjon for NIBR, NOVA og Housing Lab. Tredje Boligsektor AS bør aktivt søke å bli en case i deres forskningsprosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 4-5",
+    "id_master": 106
+  },
+  {
+    "navn": "OsloMet - Senter for velferds- og arbeidslivsforskning (SVA)",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligforskning, velferdsforskning",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Ledende forskningsmiljø på boligfeltet i Norge med flere spesialiserte sentre.",
+    "relevans_for_TBS": "Vertsinstitusjon for Housing Lab, BOVEL og NIBR. Tredje Boligsektor AS bør aktivt søke å bli en case i deres forskningsprosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.1, side 4-5, ref [12], [13], [14]",
+    "id_master": 107
+  },
+  {
+    "navn": "På vei mot en sosialt bærekraftig tredje boligsektor (Tidsskrift for boligforskning, 2022)",
+    "kategori": "forskningsmiljo",
+    "temaer": "blandet beboersammensetning, forskningspublikasjon, kommunale boligstiftelser, sosial bærekraft, tredje boligsektor",
+    "geografi": "Norge",
+    "rolle_kort": "Forskningspublikasjon om kommunale boligstiftelser som tredje sektor.",
+    "relevans_for_TBS": "Direkte akademisk forankring av konseptet. Identifiserer potensial og utfordringer med blandet beboersammensetning.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3; Perplexity: Side 5, ref. 22-23",
+    "id_master": 108
+  },
+  {
+    "navn": "ReHoUSIn (EU Horizon 2020)",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligusikkerhet, europa, inclusionary housing, ulikhet",
+    "geografi": "Europa",
+    "rolle_kort": "EU-prosjekt som studerer boligusikkerhet og ulikhet i Europa.",
+    "relevans_for_TBS": "Inkluderer norske forskere og studerer boligusikkerhet og ulikhet i Europa, herunder evaluerer 'inclusionary housing'-tiltak i ulike byer. Slike internasjonale studier gir ideer til Tredje Boligsektor AS om mulige virkemidler.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 6",
+    "id_master": 109
+  },
+  {
+    "navn": "SINTEF",
+    "kategori": "forskningsmiljo",
+    "temaer": "boliginnovasjon, bygningsforskning",
+    "geografi": "Trondheim/Oslo, Norge",
+    "rolle_kort": "Forskningsinstitutt som deltok i Bopilot-prosjektet.",
+    "relevans_for_TBS": "Publiserte 'Kommunen som pådriver for alternative boligløsninger' (2022). Partner i Bopilot-prosjektet sammen med NTNU, kommuner, NAL og Husbanken.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3; Perplexity: ref. 98",
+    "id_master": 110
+  },
+  {
+    "navn": "SINTEF Community (tidl. Byggforsk)",
+    "kategori": "forskningsmiljo",
+    "temaer": "bopilot, bygninger, bærekraftig utvikling, bærekraftige boligløsninger, evalueringer, fysisk utforming, infrastruktur, mikrohus, sosial boligbygging, sosial bærekraft, universell utforming",
+    "geografi": "Trondheim/Oslo, Norge",
+    "rolle_kort": "Forskningsinstitutt med fokus på grensesnittet mellom fysisk utforming og sosial bærekraft.",
+    "relevans_for_TBS": "Har prosjekter om bærekraftige boligløsninger, bl.a. universell utforming og aldersvennlig boligbygging, som overlapper med sosial bærekraft. Felles prosjekt med NTNU om Inkluderende byutvikling.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 4.2, side 9, ref 15; GPT: Kapittel 3, side 5, ref 45; Manus: Kapittel 3.2, side 5, ref [15]",
+    "id_master": 111
+  },
+  {
+    "navn": "Samfunnsøkonomisk analyse AS",
+    "kategori": "forskningsmiljo",
+    "temaer": "deleie, husbanken-rapport, leie-til-eie",
+    "geografi": "Norge",
+    "rolle_kort": "Konsulentselskap som gjennomførte kartlegging av leie-til-eie og deleie for Husbanken i 2021.",
+    "relevans_for_TBS": "Gjennomgangen vurderte hvordan slike modeller kan avhjelpe egenkapitalproblemet for unge, og diskuterte forbrukervern.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5",
+    "id_master": 112
+  },
+  {
+    "navn": "Sosial bærekraft - boligkjøpsmodellers rolle (NTNU 2023)",
+    "kategori": "forskningsmiljo",
+    "temaer": "boligkjøpsmodeller, kjøpekraft, masteroppgave",
+    "geografi": "Norge",
+    "rolle_kort": "Masteroppgave om TOBB, OBOS, Frost og NORDR-modeller.",
+    "relevans_for_TBS": "Dokumenterer hvordan boligkjøpsmodeller øker kjøpekraft. Direkte relevant forskning.",
+    "status": "Publisert",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 5, ref. 24-25",
+    "id_master": 113
+  },
+  {
+    "navn": "Tidsskrift for boligforskning",
+    "kategori": "forskningsmiljo",
+    "temaer": "akademisk publisering, boligforskning",
+    "geografi": "Norge",
+    "rolle_kort": "Viktigste publiseringskanal for norsk boligforskning.",
+    "relevans_for_TBS": "Har publisert sentrale artikler om tredje boligsektor, inkludert 'Kampen om en tredje boligsektor i Oslo' (2021) og 'Nye boligkjøpsmodeller' (2024).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.3, side 5, ref [17], [18]",
+    "id_master": 114
+  },
+  {
+    "navn": "Boligprodusentene",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligbehov, boligproduksjon, bransjeorganisasjon",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Bransjeorganisasjon for boligprodusenter.",
+    "relevans_for_TBS": "Kilde for tall om boligbehov og igangsetting. Arrangerer Boligkonferansen.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 8-9, 60, 65",
+    "id_master": 115
+  },
+  {
+    "navn": "Boligprodusentenes forening",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "kostnader, tekniske krav, utbyggere",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Forening for utbyggere som er opptatt av tekniske krav og kostnader.",
+    "relevans_for_TBS": "Ser nå at salgssvikten i nyboligmarkedet kan møtes ved alternative modeller - her kan Tredje Boligsektor AS også posisjonere seg.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13",
+    "id_master": 116
+  },
+  {
+    "navn": "Eiendom Norge",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligmarked, egenkapitalkrav, eiendomsmeglere, førstegangskjøp, markedsdata, meglerbransjen",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Meglerbransjens organisasjon som er opptatt av førstegangskjøpet.",
+    "relevans_for_TBS": "Sentrale premissleverandører i den boligpolitiske debatten og viktige kilder til markedsdata og -innsikt. Selv om de kan være kritiske til økt regulering, er de også opptatt av et velfungerende boligmarked.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13; Manus: Kapittel 7.3, side 11, ref [23], [41]",
+    "id_master": 117
+  },
+  {
+    "navn": "Frelsesarmeen",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligsosialt arbeid, frivillig organisasjon, sårbare grupper",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Frivillig organisasjon med lang erfaring med boligsosialt arbeid rettet mot de mest sårbare gruppene.",
+    "relevans_for_TBS": "Ofte mottakere av tilskudd fra Husbanken og kan være viktige samarbeidspartnere i prosjekter som retter seg mot spesifikke målgrupper.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 7.4, side 11, ref [31]",
+    "id_master": 118
+  },
+  {
+    "navn": "Gaining by Sharing-nettverket",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "alternative boligmodeller, deling, fellesskap",
+    "geografi": "Norge (Stavanger-basert)",
+    "rolle_kort": "Nettverk rundt Vindmøllebakken-konseptet som utvider til nye prosjekter.",
+    "relevans_for_TBS": "Inspirert nye prosjekter i Alta (40 enheter), Voss (20 enheter) og Vålandshagen i Stavanger (95 enheter). Kontakt via gainingbysharing.no",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 2-3, 5",
+    "id_master": 119
+  },
+  {
+    "navn": "HABITAT-Norge",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "bosettingsprogram, fn, retten til bolig",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "Den norske avdelingen av FNs bosettingsprogram-nettverk.",
+    "relevans_for_TBS": "Arrangerer arrangementer om retten til bolig og byutvikling - dette er mer internasjonalt orientert, men kan sette Tredje Boligsektor AS i kontakt med eksperter globalt.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13",
+    "id_master": 120
+  },
+  {
+    "navn": "Housing Europe",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "europeisk samarbeid, paraplyorganisasjon, sosial boligbygging, sosialbolig",
+    "geografi": "Europa",
+    "rolle_kort": "Europeisk paraplyorganisasjon for sosialbolig-aktører.",
+    "relevans_for_TBS": "Husbanken og NBBL er tilknyttet. Via Housing Europe kan man få tilgang til beste praksis fra hele Europa, og også delta i prosjektsamarbeid.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13; Manus: Kapittel 7.1, side 10, ref [38]",
+    "id_master": 121
+  },
+  {
+    "navn": "KS (Kommunesektorens organisasjon)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "beste praksis, boligsosial politikk, interesseorganisasjon, kobo-integrasjon, kommunal boligutvikling, kommunenettverk, kommuner, premissleverandør",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Interesseorganisasjon for kommunesektoren som driver nettverk for kommunal boligutvikling.",
+    "relevans_for_TBS": "Viktig premissleverandør. Å bli invitert inn som 'best practice' i KS-sammenheng er den mest effektive markedsføringen mot norske kommunedirektører.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 8.1, side 12; Manus: Kapittel 7.2, side 11, ref [40]; Perplexity: Side 5",
+    "id_master": 122
+  },
+  {
+    "navn": "Kirkens Bymisjon",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligsosialt arbeid, frivillig organisasjon, sårbare grupper",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Frivillig organisasjon med lang erfaring med boligsosialt arbeid rettet mot de mest sårbare gruppene.",
+    "relevans_for_TBS": "Ofte mottakere av tilskudd fra Husbanken og kan være viktige samarbeidspartnere i prosjekter som retter seg mot spesifikke målgrupper.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 7.4, side 11, ref [31]",
+    "id_master": 123
+  },
+  {
+    "navn": "Kommunale Boligadministrasjoners Landsråd (KBL)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "kommunale boliger, konferanser, nettverk",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nettverk for ledere og ansatte som forvalter kommunale boliger.",
+    "relevans_for_TBS": "Har arrangert nasjonale boligkonferanser hvert år siden 1973. KBLs konferanse i 2024 hadde tema 'Lov om kommunens boligsosiale ansvar' og 'fra leid til eid'-prosjekter. Å delta aktivt i slike konferanser kan gi Tredje Boligsektor AS verdifulle kontakter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 12-13, ref 65, 66",
+    "id_master": 124
+  },
+  {
+    "navn": "Kommunale nettverk (Oslo, Bergen, Trondheim, Stavanger)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "erfaringsdeling, kommunal boligutvikling",
+    "geografi": "Norge (storbyer)",
+    "rolle_kort": "Uformelle nettverk mellom større bykommuner om boligsosial praksis.",
+    "relevans_for_TBS": "Ofte fasilitert av Husbankens regionkontorer. Å knytte bånd til nøkkelpersoner i disse byene kan gi innsikt i kommende prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13",
+    "id_master": 125
+  },
+  {
+    "navn": "NAL (Norske arkitekters landsforbund)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "arkitektur, boligutvikling",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Arkitektorganisasjon som deltok i Bopilot-prosjektet.",
+    "relevans_for_TBS": "Partner i Bopilot-prosjektet sammen med SINTEF, NTNU, kommuner og Husbanken.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 126
+  },
+  {
+    "navn": "NBBL (Norske Boligbyggelags Landsforbund)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligbyggelag, boligpolitikk, borettslag, bransjeforankring, deleie, interesseorganisasjon, kooperativ boligbevegelse, leie-til-eie, politisk påvirkning, standardkontrakter",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Interesseorganisasjon for boligbyggelagene som har støttet fremveksten av alternative modeller.",
+    "relevans_for_TBS": "Har støttet fremveksten av deleie/leie-til-eie-modellene gjennom politisk påvirkning og erfaringsdeling. NBBL-direktør Bård Folke Fredriksen skrev i 2022 en kronikk som etterlyste tilrettelegging for en tredje boligsektor med lærdom fra Wien.",
+    "status": "Aktiv",
+    "kildetype": "Referanse",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Works cited, ref 35; GPT: Kapittel 2, 7, side 4, 12-13; Claude: Side 6; Manus: Kapittel 7.1, side 10, ref [37], [38], [39]; Perplexity: Side 5, ref. 7, 21, 38, 97",
+    "id_master": 127
+  },
+  {
+    "navn": "NBO (Nordisk boligsamarbeid)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligpolitikk, nordisk samarbeid",
+    "geografi": "Norden",
+    "rolle_kort": "Nordisk samarbeidsorganisasjon for bolig.",
+    "relevans_for_TBS": "NBBL er medlem, noe som kobler den norske debatten til nordiske trender.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 7.1, side 10, ref [39]",
+    "id_master": 128
+  },
+  {
+    "navn": "NBO Housing Nordic",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "danske almene boliger, housing first, nordisk samarbeid",
+    "geografi": "Norden",
+    "rolle_kort": "Nordisk samarbeidsorganisasjon med fokus på å lære fra danske almene boliger og finske Housing First-modeller.",
+    "relevans_for_TBS": "Den toårige nordiske boligkonferansen (sist Stockholm september 2024) er en nøkkelarena for nettverksbygging og læring.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 129
+  },
+  {
+    "navn": "Nordic Housing Forum",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligpolitikk, nordisk ministerråd, nordisk samarbeid",
+    "geografi": "Norden",
+    "rolle_kort": "Forum under Nordisk Ministerråd som diskuterer boligutfordringer i nordisk sammenheng.",
+    "relevans_for_TBS": "Avholdt webinar i 2021 om erfaringer fra København, Wien og Zürich om tredje sektor. Deltok representanter fra Tøyen Boligbyggelag og forskere, noe som skapte en uformell nordisk nettverksbygging.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 7, side 13, ref 69",
+    "id_master": 130
+  },
+  {
+    "navn": "Norsk Eiendom",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligpolitikk, boligsosialt forum, bransjeorganisasjon, bærekraft, eiendomsutviklere, eiendomsutvikling, sosial bærekraft, tilvisningsavtaler, tredje boligsektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Bransjeorganisasjon med eksplisitt bærekraftsmål om å 'samarbeide med myndighetene om en tredje boligsektor'.",
+    "relevans_for_TBS": "Har laget veiledere for utbyggere om hvordan inngå tilvisningsavtaler. Å engasjere seg her kan gjøre at flere utbyggere kjenner til Tredje Boligsektor AS som en partner som kan forvalte den 'boligsosiale andelen' av et prosjekt.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 8.1, side 12, ref 33, 34; GPT: Kapittel 7, side 13, ref 70; Claude: Side 6; Manus: Kapittel 7.3, side 11, ref [41]",
+    "id_master": 131
+  },
+  {
+    "navn": "Norske Arkitekters Landsforbund (NAL)",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "arkitektur, boligpolitikk, konferanser",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Interesseorganisasjon for arkitekter som arrangerer boligpolitiske konferanser.",
+    "relevans_for_TBS": "Arrangerte sammen med samfunnsøkonomer boligkonferansen 'Den tredje boligsektor - hva kan det bli, og hvorfor trenger vi det?' i Oslo i 2022.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, 7, side 6, 13",
+    "id_master": 132
+  },
+  {
+    "navn": "Proptech Norway",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "eiendomsbransjen, eiendomsteknologi, innovasjon, proptech, teknologi",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Non-profit nettverk med korporative medlemmer som OBOS, USBL, Entra, DNB og Ferd.",
+    "relevans_for_TBS": "Arena for å finne teknologipartnere som Unloc og Unite Living, og holde seg oppdatert på digitale trender som kan gi konkurransefortrinn.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 8.2, side 12, ref 35; Claude: Side 4",
+    "id_master": 133
+  },
+  {
+    "navn": "Røde Kors",
+    "kategori": "nettverk_organisasjon",
+    "temaer": "boligsosialt arbeid, frivillig organisasjon, sårbare grupper",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Frivillig organisasjon med lang erfaring med boligsosialt arbeid rettet mot de mest sårbare gruppene.",
+    "relevans_for_TBS": "Ofte mottakere av tilskudd fra Husbanken og kan være viktige samarbeidspartnere i prosjekter som retter seg mot spesifikke målgrupper.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 7.4, side 11, ref [31]",
+    "id_master": 134
+  },
+  {
+    "navn": "26 distriktskommuner (pilotprosjekter)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligutvikling, distriktspolitikk, pilotprosjekter",
+    "geografi": "Norge (distrikter)",
+    "rolle_kort": "Kommuner som fikk 21 millioner kroner i støtte til nye boligtiltak i 2024.",
+    "relevans_for_TBS": "Åpner et nytt marked utenfor storbyene. Prosjektene skal prøve nye samarbeidsformer og modeller for å eie, dele eller leie bolig.",
+    "status": "Under utvikling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1, ref 4, 5",
+    "id_master": 135
+  },
+  {
+    "navn": "Arendal kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "pilotprosjekt, tilvisningsavtaler, utleieboliger",
+    "geografi": "Arendal, Agder",
+    "rolle_kort": "Kommune som søker profesjonelle utleiere for tilvisningsavtaler.",
+    "relevans_for_TBS": "Har lansert pilot på tilvisningsavtaler i større skala med frist juni 2026. Et tegn på at flere kommuner tar i bruk ordningen. Potensielt marked for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1, ref 7, 8",
+    "id_master": 136
+  },
+  {
+    "navn": "Bergen kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "ai-saksbehandling, alternative boligløsninger, boligprogram, bopilot, chatbot, forskningsåpenhet, innovasjon, prisregulerte boliger, tilvisningsavtaler",
+    "geografi": "Bergen, Vestland",
+    "rolle_kort": "Kommune som eksperimenterer med AI i saksbehandling og vurderer prisregulerte boliger.",
+    "relevans_for_TBS": "Bopilot-prosjektet konkluderte med at kommunen aktivt må etterspørre innovasjon i sine anbud og tomtesalg. Viser at kommuner mangler verktøy som Tredje Boligsektor AS kan tilby.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.2, side 4, ref 15; GPT: Kapittel 4-5, side 8, 9; Claude: Side 5",
+    "id_master": 137
+  },
+  {
+    "navn": "Boligsosialt utviklingsprogram (2009-2017)",
+    "kategori": "offentlig_aktor",
+    "temaer": "husbanken, kompetansestøtte, samarbeidsavtaler",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens tidligere program med samarbeidsavtaler med 26 kommuner.",
+    "relevans_for_TBS": "Selv om programperioden er over, har mange kommuner fortsatt nettverk for erfaringsdeling i regi av Husbanken (f.eks. gjennom regionkontorer).",
+    "status": "Avsluttet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 2, ref 12, 13",
+    "id_master": 138
+  },
+  {
+    "navn": "Bygdevekstavtaler (18 kommuner)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligutvikling, distriktspolitikk, husbanken",
+    "geografi": "Norge (18 distriktskommuner)",
+    "rolle_kort": "Statlig program med nye bygdevekstavtaler med 18 kommuner i 2025.",
+    "relevans_for_TBS": "Åpner et nytt marked for Tredje Boligsektor AS utenfor de tradisjonelle storbyene. Husbanken har rolle som kompetansepartner i disse avtalene.",
+    "status": "Under utvikling",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.2, side 4-5, ref 17",
+    "id_master": 139
+  },
+  {
+    "navn": "Drammen kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "evaluering, leie-til-eie",
+    "geografi": "Drammen, Viken",
+    "rolle_kort": "Kommune med leie-til-eie-prosjekter under evaluering.",
+    "relevans_for_TBS": "Nevnt som kommune med leie-til-eie-prosjekter. Evalueringer viser at mange leietakere trenger lengre tid eller faller fra.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5",
+    "id_master": 140
+  },
+  {
+    "navn": "Husbanken",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligfinansiering, boligsosial monitor, boligsosialt arbeid, bustadsosial monitor, deleie med tilskudd, digitalisering, etableringstilskudd, grunnlån, investeringstilskudd, kobo, kompetansestøtte, leie til eie, leiemarked, lån til boligkvalitet, lån til utleieboliger, startlån, tilskudd, tilskudd til boligtiltak",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statens sentrale organ for gjennomføring av boligpolitikken og den viktigste offentlige aktøren for tredje boligsektor.",
+    "relevans_for_TBS": "Tilbyr startlån (5% egenkapital, 2 mrd. ramme), lån til boligkvalitet (85% av prosjektkostnad), lån til utleieboliger med tilvisningsavtaler, og tilskudd til boligtiltak (37,5 mill. i 2024-2025).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, side 3, ref 6-9; GPT: Kapittel 1, side 1-2, ref 3-5; Claude: Side 1, 4; Manus: Kapittel 1.1, 4.1, 4.2, 6.1, side 1-2, 6-7, 9, ref [1], [2], [21], [22], [31]; Perplexity: Side 4-5, 7, ref. 10-11, 16-18",
+    "id_master": 141
+  },
+  {
+    "navn": "Husbanken Region Sør",
+    "kategori": "offentlig_aktor",
+    "temaer": "regional kontakt, tilskudd, veiledning",
+    "geografi": "Sør-Norge",
+    "rolle_kort": "Regional Husbanken-enhet med veiledning og tilskuddsmuligheter.",
+    "relevans_for_TBS": "Tier 1 (Kritisk) kontakt for veiledning og tilskudd. Direkte relevant for Nesodden-prosjektet.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 5",
+    "id_master": 142
+  },
+  {
+    "navn": "Kommunal- og moderniseringsdepartementet (KMD/KDD)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpolitikk, lovverk, regulering, sosial bærekraft",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Departement med hovedansvar for boligpolitikken i Norge.",
+    "relevans_for_TBS": "Har vist økende interesse for tredje boligsektor som et verktøy for å oppnå sosial bærekraft. Ansvarlig for lovendringer og utredninger som direkte påvirker Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1; Manus: Kapittel 1.2, side 2, ref [3]",
+    "id_master": 143
+  },
+  {
+    "navn": "Kommunene",
+    "kategori": "offentlig_aktor",
+    "temaer": "arealplanlegging, planmyndighet, samarbeidsavtaler, tomtetildeling, velferdsaktør",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Har dobbeltrolle som både planmyndighet og velferdsaktør med ansvar for å hjelpe vanskeligstilte på boligmarkedet.",
+    "relevans_for_TBS": "Med Lov om kommunenes ansvar på det boligsosiale feltet (2023) har kommunene fått tydeligere ansvar. Verktøy inkluderer arealplanlegging, tomtetildeling, samarbeidsavtaler og kommunale foretak. Trondheim og Oslo nevnt som aktive kommuner.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 1.3, side 2-3, ref [5], [6]",
+    "id_master": 144
+  },
+  {
+    "navn": "Kommuner med boligsosiale handlingsplaner",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosial handlingsplan, målrettet salg",
+    "geografi": "Norge (diverse kommuner)",
+    "rolle_kort": "Kommuner som har vedtatt boligsosiale handlingsplaner men mangler verktøy for gjennomføring.",
+    "relevans_for_TBS": "Målgruppe for Tredje Boligsektor AS sin salgsstrategi. Kommuner med vedtatte planer men manglende verktøy kan tilbys en ferdig løsning som realiserer deres egne mål.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 9, side 12",
+    "id_master": 145
+  },
+  {
+    "navn": "Kristiansand kommune (boligsosial handlingsplan)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosialt arbeid, kommunal handlingsplan",
+    "geografi": "Kristiansand, Agder",
+    "rolle_kort": "Kommune med boligsosial handlingsplan.",
+    "relevans_for_TBS": "Eksempel på kommunal tilnærming til boligsosialt arbeid.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 68; Perplexity: ref. 122",
+    "id_master": 146
+  },
+  {
+    "navn": "Nesodden kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosial handlingsplan, hellvikveien 46, lokal forankring, offentlig-privat samarbeid, pilotkommune, planmyndighet",
+    "geografi": "Nesodden, Viken",
+    "rolle_kort": "Samarbeidskommune for pilotprosjektet Hellvikveien 46.",
+    "relevans_for_TBS": "Har samarbeidet med Tredje Boligsektor AS i 13 år. Reguleringsplanen for Hellvikveien 46 ble vedtatt januar 2025. Demonstrerer hvordan politisk vilje og tverrpolitisk flertall kan sikre gjennomføring av boligsosiale prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 1.2, side 2, ref 1, 4; Perplexity: Side 4-5",
+    "id_master": 147
+  },
+  {
+    "navn": "Nordre Follo kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpress, kommuneplan, strategisk timing",
+    "geografi": "Nordre Follo, Viken",
+    "rolle_kort": "Ny sammenslått kommune midt i revisjon av kommuneplan med strategisk timing.",
+    "relevans_for_TBS": "Arealdel sluttbehandling sommer 2026. Søker identitet som ny kommune. God kollektivforbindelse til Oslo og voksende press på boligpriser gjør regionen attraktiv.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 148
+  },
+  {
+    "navn": "Orkland kommune (boligpolitisk handlingsplan)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpolitikk, kommunal handlingsplan",
+    "geografi": "Orkland, Trøndelag",
+    "rolle_kort": "Kommune med boligpolitisk handlingsplan.",
+    "relevans_for_TBS": "Eksempel på kommunal tilnærming til boligpolitikk.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 86",
+    "id_master": 149
+  },
+  {
+    "navn": "Oslo kommune (boligsosiale rapporter)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosialt arbeid, fellestjenester bygg, kommunal tredje boligsektor, kommunale rapporter, tøyen-piloten",
+    "geografi": "Oslo",
+    "rolle_kort": "Storbykommune med ambisjon om egen kommunal tredje boligsektor.",
+    "relevans_for_TBS": "Vedtok i byrådsperiode 2019-2022 ambisjon om 'kommunal tredje boligsektor'. Lanserte Tøyen-piloten (Hagegata 30) som dessverre ble skrinlagt. Har innført heldigitale byggesøknader via Fellestjenester BYGG.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4-5, side 7, 9; Perplexity: ref. 36",
+    "id_master": 150
+  },
+  {
+    "navn": "Regjeringen",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpolitikk, forskrift, lovendringer",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Ansvarlig for nasjonal boligpolitikk og lovgivning.",
+    "relevans_for_TBS": "Lovendringer trådte i kraft 1. januar 2026 som er 'revolusjonerende' for modellen. Forskrift kommer snart på høring - kritisk mulighet til å påvirke.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 3, ref. 1-4",
+    "id_master": 151
+  },
+  {
+    "navn": "Regjeringen / Kommunal- og distriktsdepartementet",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpolitikk, bustadmelding, lovverk",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Ansvarlig for nasjonal boligpolitikk og lovgivning som muliggjør tredje boligsektor.",
+    "relevans_for_TBS": "Bustadmeldingen fra mars 2024 anerkjenner eksplisitt 'tredje boligsektor'-konseptet. Finansierer BOVEL (2022-2024). Pågående lovendringer i plan- og bygningsloven vil gjøre det mulig for kommuner å kreve leie-til-eie og deleie i reguleringsplaner.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1, 3",
+    "id_master": 152
+  },
+  {
+    "navn": "Sandnes kommune (boligsosial handlingsplan)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosialt arbeid, kommunal handlingsplan",
+    "geografi": "Sandnes, Rogaland",
+    "rolle_kort": "Kommune med boligsosial handlingsplan.",
+    "relevans_for_TBS": "Eksempel på kommunal tilnærming til boligsosialt arbeid.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 66; Perplexity: ref. 74; Perplexity: ref. 119",
+    "id_master": 153
+  },
+  {
+    "navn": "Statsforvalteren",
+    "kategori": "offentlig_aktor",
+    "temaer": "arealplanlegging, boligsosiale hensyn, innsigelser, planlegging, regulering, sosiale hensyn",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statlig organ som kan fremme innsigelser mot kommunale planer som ikke ivaretar sosiale hensyn.",
+    "relevans_for_TBS": "Kan være alliert i plansaker. Statsforvalteren i Innlandet har i forventningsbrev pekt på at kommuner med svak økonomi må samarbeide for å løse boligoppgaver.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.3, side 5; GPT: Kapittel 1-2, 5, side 2, 10, ref 41",
+    "id_master": 154
+  },
+  {
+    "navn": "Statsforvalteren Oslo/Viken",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosialt arbeid, kommunekontakt, nettverksmøter",
+    "geografi": "Oslo og Viken",
+    "rolle_kort": "Regional statlig myndighet som arrangerer boligsosiale nettverksmøter.",
+    "relevans_for_TBS": "Tier 1 (Kritisk) kontakt. Arrangerer boligsosiale nettverksmøter hvor Tredje Boligsektor AS kan presentere. Viktig for kommunekontakt.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 4-5, ref. 14-15",
+    "id_master": 155
+  },
+  {
+    "navn": "Stavanger kommune (boligsosial temaplan)",
+    "kategori": "offentlig_aktor",
+    "temaer": "ai-kundeservice, alternative boligmodeller, boligsosialt arbeid, chatbot, gaining by sharing, innovasjonskultur, kommunal temaplan",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Kommune som har eksperimentert med chatboter for spørsmål om kommunale boliger.",
+    "relevans_for_TBS": "Vindmøllebakkens suksess demonstrerer kommunens åpenhet for alternative modeller. 'Gaining by Sharing'-nettverket utvider til nye prosjekter. Gunstig regulatorisk behandling for innovative konsepter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 8; Claude: Side 5; Perplexity: ref. 63",
+    "id_master": 156
+  },
+  {
+    "navn": "Stortinget",
+    "kategori": "offentlig_aktor",
+    "temaer": "lovgivning, politisk konsensus",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nasjonalforsamlingen som vedtok lovendringer for boligkjøpsmodeller.",
+    "relevans_for_TBS": "Enstemmig vedtak om å tillate opptil 50% deleie/leie-til-eie i borettslag. Bred politisk enighet om eierlinja på tvers av partier.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 3, ref. 5-7",
+    "id_master": 157
+  },
+  {
+    "navn": "Sør-Varanger kommune (boligpolitisk plan)",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligpolitikk, kommunal handlingsplan",
+    "geografi": "Sør-Varanger, Troms og Finnmark",
+    "rolle_kort": "Kommune med boligpolitisk plan.",
+    "relevans_for_TBS": "Eksempel på kommunal tilnærming til boligpolitikk.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 120",
+    "id_master": 158
+  },
+  {
+    "navn": "Tromsø kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligtorget, digital boligformidling, en dør inn",
+    "geografi": "Tromsø, Troms og Finnmark",
+    "rolle_kort": "Kommune med 'En dør inn'-prosjekt for boligformidling.",
+    "relevans_for_TBS": "Presenterte nylig 'En dør inn'-prosjekt på boligkonferansen 2024. Eksempel på digitale systemer for boligformidling som Tredje Boligsektor AS kan lære av.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7, ref 57",
+    "id_master": 159
+  },
+  {
+    "navn": "Trondheim kommune",
+    "kategori": "offentlig_aktor",
+    "temaer": "boligsosial handlingsplan, evaluering, kommunal boligpolitikk, leie-til-eie, pilotprosjekter, rimelige boliger, tredje sektor",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "Nasjonal leder med politisk mandat til å 'ligge i forkant med utvikling av en tredje sektor'.",
+    "relevans_for_TBS": "Etablerte strukturer, forskningsstøtte og politisk vilje. Boligstiftelsen driver to pilotprosjekter (150 enheter) med økt beboerdemokrati og kostnadsbasert husleie. TOBB-samarbeid gir tilgang til leie-før-eie-infrastruktur.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.2, side 4, ref 14; GPT: Kapittel 3, side 5; Claude: Side 5",
+    "id_master": 160
+  },
+  {
+    "navn": "Alle trenger et trygt hjem (2021-2024)",
+    "kategori": "politikk_lovverk",
+    "temaer": "bostedsløshet, nasjonal strategi, sosial bærekraft",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nasjonal strategi med mål å bekjempe bostedsløshet og styrke det boligsosiale arbeidet.",
+    "relevans_for_TBS": "Strategien løftet frem sosial bærekraft som et mål, og Kommunal- og moderniseringsdepartementet varslet å utrede om kommunene kan få reguleringsmyndighet til å kreve alternative boligmodeller.",
+    "status": "Avsluttet",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1; Manus: Kapittel 1.2, side 2, ref [3]",
+    "id_master": 161
+  },
+  {
+    "navn": "Boliglovutvalget (2011)",
+    "kategori": "politikk_lovverk",
+    "temaer": "kommunalt boligansvar, nou",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Utvalg som foreslo å lovfeste kommunens boligansvar.",
+    "relevans_for_TBS": "Historisk referanse som viser at debatten om kommunalt boligansvar har pågått lenge.",
+    "status": "Avsluttet",
+    "kildetype": "Referanse",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 10",
+    "id_master": 162
+  },
+  {
+    "navn": "Borettslagsloven (endringer for deleie)",
+    "kategori": "politikk_lovverk",
+    "temaer": "andelseierskap, borettslag, deleie, juridisk rammeverk",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Foreslåtte endringer i borettslagsloven for å legge bedre til rette for deleie-modeller.",
+    "relevans_for_TBS": "Forslagene inkluderer å øke grensen for hvor mange andeler en juridisk person kan eie, og å forenkle reglene for utleie i slike hybridmodeller. Kritisk for at Tredje Boligsektor AS skal kunne eie andeler i prosjektene sine over tid.",
+    "status": "Foreslått",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 6.3, side 10, ref 22",
+    "id_master": 163
+  },
+  {
+    "navn": "Borettslagsloven og eierseksjonsloven (endringer)",
+    "kategori": "politikk_lovverk",
+    "temaer": "deleie, forbrukerbeskyttelse, leie-til-eie",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Forventede lovendringer for å fjerne hindringer for deleie og leie-til-eie.",
+    "relevans_for_TBS": "Endringer forventes vedtatt i løpet av 2025, med ikrafttredelse i 2026. Vil blant annet oppheve dagens begrensninger på hvor mange boliger i samme borettslag som kan tilbys med leie-til-eie eller deleie, og innføre definisjoner og regler om forkjøpsrett og foreldelsesfrister.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9, ref 2",
+    "id_master": 164
+  },
+  {
+    "navn": "Bustadmelding 2024 (Meld. St. 13, 2023-2024)",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligpolitikk, helhetlig strategi, tredje sektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Regjeringens stortingsmelding som omtaler en helhetlig boligpolitikk.",
+    "relevans_for_TBS": "Regjeringen foreslo i 2025 lovendringer for å legge til rette for boligkjøpsmodeller nasjonalt. Meldingen gir politisk ryggdekning for kommuner som ønsker å prioritere tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1, ref 1, 2",
+    "id_master": 165
+  },
+  {
+    "navn": "Bustadmeldinga (Meld. St. 13)",
+    "kategori": "politikk_lovverk",
+    "temaer": "anerkjennelse, boligpolitikk, eierlinja, leie-til-eie, nasjonal boligpolitikk, tredje boligsektor, tredje sektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Regjeringens stortingsmelding som slår fast at tredje boligsektor er ønsket som supplement til eierlinja.",
+    "relevans_for_TBS": "Gir politisk ryggdekning for kommuner som ønsker å prioritere tredje boligsektor-prosjekter. Peker på behovet for flere aktører som utvikler ikke-kommersielle utleieboliger og deleie-modeller.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, 2.3, 6.2, side 3, 5, 10, ref 6, 7; Claude: Side 1",
+    "id_master": 166
+  },
+  {
+    "navn": "Forskrift om boligkjøpsmodeller (kommende)",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligkjøpsmodeller, forskrift, høring",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Kommende forskrift som vil regulere boligkjøpsmodeller.",
+    "relevans_for_TBS": "Kritisk mulighet til å påvirke. Kortsiktig prioritet: Forbered innspill til forskriften når den kommer på høring.",
+    "status": "Under utarbeidelse",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 3-4",
+    "id_master": 167
+  },
+  {
+    "navn": "Forsøk etter plan- og bygningsloven",
+    "kategori": "politikk_lovverk",
+    "temaer": "forsøksordning, pilotprosjekter",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Ordning åpnet i 2023 for kommuner å søke KDD om å fravike visse bestemmelser for å prøve ut boligsosiale tiltak.",
+    "relevans_for_TBS": "Verdt å utforske for Tredje Boligsektor AS: Ved å finne en samarbeidskommune som vil søke om et pilotprosjekt under forsøksloven, kan man realisere banebrytende prosjekter og høste erfaring før lovverket formelt endres.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 9",
+    "id_master": 168
+  },
+  {
+    "navn": "Grunnlån / Lån til boligkvalitet",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligfinansiering, livsløpsstandard, miljø, utbygger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens låneordning for utbyggere med krav til miljø og livsløpsstandard.",
+    "relevans_for_TBS": "Søknader eksplodert fra 5,6 mrd (2022) til 19,2 mrd (2024). Muliggjør finansiering av oppføringskostnader med rente betydelig under markedsrente. Absolutt forutsetning for å tilby boliger til redusert pris.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, side 3, ref 9",
+    "id_master": 169
+  },
+  {
+    "navn": "Høring om endringer i plan- og bygningsloven (april 2024)",
+    "kategori": "politikk_lovverk",
+    "temaer": "arealplaner, borettslag, deleie, leie-til-eie",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Kritisk høring som foreslår endringer for å tillate kommuner å kreve boligkjøpsmodeller i arealplaner.",
+    "relevans_for_TBS": "Frist 5. august 2024. Foreslår at kommuner kan kreve borettslag som organisasjonsform, andel utleieboliger (inkludert kommunalt disponerte), og boligkjøpsmodeller som leie-til-eie og deleie.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1",
+    "id_master": 170
+  },
+  {
+    "navn": "Lov om endringer i burettslagslova og eierseksjonsloven (LOV-2025-12-19-114)",
+    "kategori": "politikk_lovverk",
+    "temaer": "deleie, juridisk rammeverk, leie til eie",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Lovendring som gir et solid juridisk fundament for modeller som leie til eie og deleie.",
+    "relevans_for_TBS": "Vedtatt desember 2025, i kraft 1. januar 2026. Innfører klare definisjoner av 'leie til eie' og 'deleie' (minst 50% eierandel), unntak fra eierbegrensninger for juridiske personer som tilbyr disse modellene, og styrket rettsvern (forkjøpsrett, foreldelse av kjøpsrett).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 5.1, side 7-8, ref [4]",
+    "id_master": 171
+  },
+  {
+    "navn": "Lov om kommunenes ansvar på det boligsosiale feltet (2023)",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligsosial plikt, kommunalt ansvar",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Lov implementert 1. januar 2023 som lovfester kommunenes plikt til å medvirke til at vanskeligstilte får bolig.",
+    "relevans_for_TBS": "Gir kommunene tydeligere mandat og styringssignal i samarbeid med aktører som Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 2; Manus: Kapittel 1.3, side 2, ref [5]",
+    "id_master": 172
+  },
+  {
+    "navn": "Lovendringer 1. januar 2026",
+    "kategori": "politikk_lovverk",
+    "temaer": "borettslagsloven, deleie, eierseksjonsloven, leie-til-eie",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Lovendringer som tillater opptil 50% deleie/leie-til-eie i borettslag.",
+    "relevans_for_TBS": "Revolusjonerende for modellen. Enstemmig vedtak i Stortinget. Lovverket støtter nå modellen.",
+    "status": "Vedtatt (i kraft)",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 3, ref. 1-4, 39, 45",
+    "id_master": 173
+  },
+  {
+    "navn": "Moms-problematikken (utleieboliger)",
+    "kategori": "politikk_lovverk",
+    "temaer": "kostnadsbarriere, merverdiavgift, utleieboliger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Økonomisk barriere hvor utleieboliger er unntatt mva-fradrag, gjør dem 25% dyrere å produsere.",
+    "relevans_for_TBS": "Risikofaktor som må kalkuleres inn. SV og ideelle aktører har argumentert for kompensasjonsordning. Et område for politisk påvirkning sammen med bransjeorganisasjoner.",
+    "status": "Under debatt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 6.1, side 10, ref 29",
+    "id_master": 174
+  },
+  {
+    "navn": "NOU 2024:19 (Husleielovutvalget)",
+    "kategori": "politikk_lovverk",
+    "temaer": "husleielov, leietakerrettigheter",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Utredning om ny husleielov ledet av Jardar Sørvoll.",
+    "relevans_for_TBS": "Vil påvirke leie-elementet i leie-til-eie og deleie-modeller. Jardar Sørvoll (BOVEL-leder) ledet utvalget.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 175
+  },
+  {
+    "navn": "NOU 2024:19 Ny boligleielov",
+    "kategori": "politikk_lovverk",
+    "temaer": "husleielov, leietakerrettigheter, profesjonell leiesektor",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Utredning fra Husleielovutvalget med forslag til ny boligleielov.",
+    "relevans_for_TBS": "Foreslår egen separat lov for boligleie, krav om at utleier skal avsette midler til vedlikehold og beboerdemokrati, og strengere regulering av depositum og leieforholdets varighet. Vil også påvirke leie-elementet i leie til eie- og deleie-modeller.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 5.3, side 8, ref [30]",
+    "id_master": 176
+  },
+  {
+    "navn": "Nasjonal strategi for den sosiale boligpolitikken 2021-2024",
+    "kategori": "politikk_lovverk",
+    "temaer": "nasjonal strategi, sosial boligpolitikk",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nasjonal strategi for sosial boligpolitikk.",
+    "relevans_for_TBS": "Rammeverk for sosial boligpolitikk. Langsiktig mål: Påvirke neste boligmelding.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 37",
+    "id_master": 177
+  },
+  {
+    "navn": "Nasjonale forventninger til regional og kommunal planlegging (2023-2027)",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligsosiale hensyn, planlegging",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Regjeringens forventningsdokument som legger vekt på boligsosiale hensyn.",
+    "relevans_for_TBS": "Forventet at kommunene 'tar boligsosiale hensyn i areal- og samfunnsplanleggingen', blant annet gjennom å regulere nok tomter og sikre varierte boligstørrelser og nabolag.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1-2, ref 9",
+    "id_master": 178
+  },
+  {
+    "navn": "Plan- og bygningsloven (endringer for boligsosiale bestemmelser)",
+    "kategori": "politikk_lovverk",
+    "temaer": "alternative modeller, boligsosiale hensyn, eierformer, kommunale boliger, reguleringsplaner",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Pågående utredning om kommuners adgang til å kreve andel kommunale boliger i reguleringsplaner.",
+    "relevans_for_TBS": "Stortinget vedtok i desember 2023 å be regjeringen vurdere lovhjemler for 'en viss andel kommunale boliger i reguleringsplaner'. Dersom endringene vedtas, kan en kommune for eksempel vedta at minst 20% av boligene i dette feltet skal selges gjennom godkjent deleie-ordning til førstegangskjøpere.",
+    "status": "Under utredning",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 6.2, side 10, ref 7; GPT: Kapittel 5, side 9, ref 48",
+    "id_master": 179
+  },
+  {
+    "navn": "Prop. 158 L (2024-2025)",
+    "kategori": "politikk_lovverk",
+    "temaer": "borettslagsloven, deleie, eierseksjonsloven, leie-til-eie",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Lovproposisjon som endrer borettslagsloven og eierseksjonsloven for å regulere boligkjøpsmodeller.",
+    "relevans_for_TBS": "Innfører klare definisjoner av leie-til-eie (maks 5 års leieperiode) og deleie. Øker eierandelsgrenser til 30% for leie-til-eie og 50% for deleie (fra 20%). Minstekrav til kontraktsinnhold og forbrukerbeskyttelse.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 1-2",
+    "id_master": 180
+  },
+  {
+    "navn": "Prop. 161 L (2024-2025)",
+    "kategori": "politikk_lovverk",
+    "temaer": "boligkjøpsmodeller, lovproposisjon",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Lovproposisjon om endringer for boligkjøpsmodeller.",
+    "relevans_for_TBS": "Grunnlaget for lovendringene som trådte i kraft 1. januar 2026.",
+    "status": "Vedtatt",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 84",
+    "id_master": 181
+  },
+  {
+    "navn": "Prop. 161 L (2024-2025) - Planbestemmelser om borettslag",
+    "kategori": "politikk_lovverk",
+    "temaer": "borettslag, kommunal regulering, plan- og bygningsloven",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Proposisjon som foreslår å gi kommunene hjemmel i plan- og bygningsloven til å kreve at nye boligprosjekter organiseres som borettslag.",
+    "relevans_for_TBS": "Formålet er å gi kommunene flere verktøy for å påvirke boligsammensetning og bomiljø. Tanken er at borettslagsmodellen, med sitt fokus på brukereierskap og non-profit-prinsipp, kan bidra til mer stabile bomiljøer. Har møtt motstand fra kommersielle utbyggere.",
+    "status": "Under behandling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 5.2, side 8, ref [28], [29]",
+    "id_master": 182
+  },
+  {
+    "navn": "Sosial bærekraft og planbestemmelser om boligsammensetning (OE-rapport 2021-74)",
+    "kategori": "politikk_lovverk",
+    "temaer": "kmd, planbestemmelser, sosial bærekraft",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Utredning for KMD som konkluderte at sosial bærekraft sjelden er konkretisert i kommunale planer.",
+    "relevans_for_TBS": "Viser at det er svak kobling mellom sosioøkonomiske data og arealplanbeslutninger. Tredje Boligsektor AS kan argumentere for at deres modell bidrar til å fylle dette gapet.",
+    "status": "Avsluttet",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 3, side 5, ref 44",
+    "id_master": 183
+  },
+  {
+    "navn": "Statlige planretningslinjer for klima og sosiale forhold (2023)",
+    "kategori": "politikk_lovverk",
+    "temaer": "klima, planlegging, sosiale hensyn",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nye statlige planretningslinjer som understreker sosiale hensyn i planlegging.",
+    "relevans_for_TBS": "Statsforvalterne har begynt å etterspørre at kommunene beskriver i planstrategier hvordan de skal ivareta boligsosiale hensyn.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 5, side 10",
+    "id_master": 184
+  },
+  {
+    "navn": "Tilvisningsavtaler",
+    "kategori": "politikk_lovverk",
+    "temaer": "kommunal-privat samarbeid, utleieboliger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Virkemiddel hvor kommuner samarbeider med private utbyggere om utleieboliger.",
+    "relevans_for_TBS": "Utbygger får rimelig finansiering fra Husbanken mot at kommunen disponerer inntil 40% av boligene for sine vanskeligstilte innbyggere. Utbygger kan leie ut resten på det åpne markedet, og kommunen henviser passende leietakere til sin andel.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 1, side 1, ref 6-8",
+    "id_master": 185
+  },
+  {
+    "navn": "BOB (Bergen og Omegn Boligbyggelag)",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, regional infrastruktur",
+    "geografi": "Bergen, Vestland",
+    "rolle_kort": "Regional boligbyggelag-infrastruktur i Bergen-området.",
+    "relevans_for_TBS": "BOB-samarbeid gir Bergen kommune tilgang til regional boligbyggelag-infrastruktur for tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 186
+  },
+  {
+    "navn": "Bate",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, leie-til-eie, leieeie",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Boligbyggelag i Stavanger med LeieEie-modell.",
+    "relevans_for_TBS": "Særlig relevant modell hvor man leier i 3-5 år før kjøp til opprinnelig fastpris. Rettet mot medlemmer helt uten egenkapital. Erfaringer kan være verdifulle for Tredje Boligsektor AS.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.1, side 5, ref 20",
+    "id_master": 187
+  },
+  {
+    "navn": "Boligstiftelsen i Trondheim",
+    "kategori": "privat_aktor",
+    "temaer": "beboerdemokrati, ideell stiftelse, kostnadsbasert husleie, pilotprosjekter, tredje boligsektor, utleieboliger",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "Stiftelse med portefølje på nesten 900 leiligheter som har posisjonert seg som ledende pådriver for tredje boligsektor.",
+    "relevans_for_TBS": "Har en klar visjon om å tilby trygge og langsiktige boforhold. Deres definisjon av tredje boligsektor og identifisering av målgrupper er blitt en referanse i fagmiljøet.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5; Manus: Kapittel 7.1, side 10, ref [6]",
+    "id_master": 188
+  },
+  {
+    "navn": "DeleieBolig",
+    "kategori": "privat_aktor",
+    "temaer": "deleie, living impact, stor-oslo",
+    "geografi": "Stor-Oslo",
+    "rolle_kort": "Startup tilknyttet Living Impact som samarbeider med investorer for å tilby deleie.",
+    "relevans_for_TBS": "Kjøperne kan kjøpe f.eks. 50% av boligen og leie resten fra DeleieBolig, med mål om at de skal kjøpe seg opp til 100% i løpet av fem år. Sosiale mål om å utjevne forskjeller i boligmarkedet.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, side 3, ref 33-37",
+    "id_master": 189
+  },
+  {
+    "navn": "Ferd Eiendom",
+    "kategori": "privat_aktor",
+    "temaer": "eiendomsutvikling, impact investing",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Eiendomsselskap under Ferd-konsernet med betydelig portefølje.",
+    "relevans_for_TBS": "Del av Ferd-konsernet som har uttalt ønske om å investere i løsninger som motvirker utenforskap. Potensiell partner for eiendomsutvikling.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 7.1, side 11, ref 30; Perplexity: ref. 52, 54",
+    "id_master": 190
+  },
+  {
+    "navn": "Finit",
+    "kategori": "privat_aktor",
+    "temaer": "deleie, lav egenkapital, verdistigning",
+    "geografi": "Norge",
+    "rolle_kort": "Kommersielt selskap som tilbyr en deleie-løsning med kun 2% egenkapital.",
+    "relevans_for_TBS": "Bidrar med deler av egenkapitalen i bytte mot en andel av verdistigningen ved salg. Dette gjør det mulig for kjøpere med kun 2% egenkapital å komme inn på markedet.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 2.2, side 3, ref [9]",
+    "id_master": 191
+  },
+  {
+    "navn": "Fredensborg Bolig",
+    "kategori": "privat_aktor",
+    "temaer": "kommersiell utleie, leie til eie, lobbyvirksomhet",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Kommersiell spydspiss innen 'Leie til Eie' med over 6 års erfaring.",
+    "relevans_for_TBS": "Verdifull datakilde med over 100 kunder og >60% suksessrate til eierskap. Aktiv i lobbyvirksomhet for lovendringer som også gagner Tredje Boligsektor AS. Viser at leie-til-eie er en effektiv trakt inn til eierskap.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.2, side 6, ref 22",
+    "id_master": 192
+  },
+  {
+    "navn": "FriBo",
+    "kategori": "privat_aktor",
+    "temaer": "nbbl, rimelige utleieboliger, ungdom",
+    "geografi": "Norge",
+    "rolle_kort": "Konsept for rimelige utleieboliger til ungdom i regi av Norske Boligbyggelag.",
+    "relevans_for_TBS": "Prosjektene er ofte småskala, men kan gi verdifulle erfaringer om sosial miks og bokvalitet.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, side 4",
+    "id_master": 193
+  },
+  {
+    "navn": "Frost (utvikler)",
+    "kategori": "privat_aktor",
+    "temaer": "boligkjøpsmodeller, utvikling",
+    "geografi": "Norge",
+    "rolle_kort": "Utvikler nevnt i forskning om boligkjøpsmodeller.",
+    "relevans_for_TBS": "Nevnt i masteroppgave om boligkjøpsmodeller. Relevant for erfaringsutveksling.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 5",
+    "id_master": 194
+  },
+  {
+    "navn": "Gaining by Sharing (Helen & Hard / Indigo Vekst)",
+    "kategori": "privat_aktor",
+    "temaer": "arkitektonisk innovasjon, deling, fellesskap, vindmøllebakken",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Sosial entreprenør bak Vindmøllebakken-prosjektet med fokus på deling og fellesskap.",
+    "relevans_for_TBS": "Mest relevante referansen for arkitektonisk og sosial utforming av Hellvikveien-prosjektet. Bygger på omfattende deling av arealer og brukermedvirkning før byggestart. Inspirasjon fra Wien-modellen og Sargfabrik.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.3, side 8, ref 23, 25",
+    "id_master": 195
+  },
+  {
+    "navn": "Helen & Hard Arkitekter",
+    "kategori": "privat_aktor",
+    "temaer": "arkitektur, boligkonsepter, gaining by sharing",
+    "geografi": "Stavanger, Norge",
+    "rolle_kort": "Arkitektkontor bak Vindmøllebakken og Gaining by Sharing-konseptet.",
+    "relevans_for_TBS": "Kontaktpunkt for Gaining by Sharing-nettverket. Nettside: gainingbysharing.no",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 3",
+    "id_master": 196
+  },
+  {
+    "navn": "Ingjerd Sælid Gilhus",
+    "kategori": "privat_aktor",
+    "temaer": "boligkjøpsmodeller, obos",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Leder for boligkjøpsmodeller i OBOS.",
+    "relevans_for_TBS": "Nøkkelkontakt for samarbeid med OBOS om boligkjøpsmodeller.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 2",
+    "id_master": 197
+  },
+  {
+    "navn": "LeieEie AS",
+    "kategori": "privat_aktor",
+    "temaer": "deleie med sparing, ekspansjon, housing as a service, lavt inngangsnivå, leie til eie, leie-til-eie, lisensiering, transaksjonsmodell",
+    "geografi": "Norge (nasjonal, ekspanderer)",
+    "rolle_kort": "Tilbyr det laveste inngangsnivået i markedet med minimum 10% eierskap uten topplån.",
+    "relevans_for_TBS": "Per 2025 ca. 200 boliger i portefølje, samarbeid med over 25 utbyggere over hele landet. Modellen kalles nå DelEie med sparing.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.3, side 8; GPT: Kapittel 2, side 3, ref 28-31; Claude: Side 2",
+    "id_master": 198
+  },
+  {
+    "navn": "Leieboerforeningen",
+    "kategori": "privat_aktor",
+    "temaer": "boligmerket, leieboersamvirke, leietakere",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Interesseorganisasjon for leietakere som har lansert konseptet Leieboersamvirke.",
+    "relevans_for_TBS": "Leieboersamvirke er en modell der beboerne leier av seg selv gjennom et samvirkeforetak som eier eiendommen. Dette gir økt trygghet, stabilitet og kontroll. Deres arbeid med Boligmerket (sertifiseringsordning for utleiere) kan være relevant for kvalitetssikring.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 2.4, 7.1, side 4, 11, ref [11]",
+    "id_master": 199
+  },
+  {
+    "navn": "Line Nyberg",
+    "kategori": "privat_aktor",
+    "temaer": "leie til eie, leieeie as",
+    "geografi": "Norge",
+    "rolle_kort": "Daglig leder i LeieEie AS.",
+    "relevans_for_TBS": "Nøkkelkontakt for samarbeid med LeieEie AS.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 2",
+    "id_master": 200
+  },
+  {
+    "navn": "NORDR",
+    "kategori": "privat_aktor",
+    "temaer": "boligkjøpsmodeller, utvikling",
+    "geografi": "Norge",
+    "rolle_kort": "Utvikler nevnt i forskning om boligkjøpsmodeller.",
+    "relevans_for_TBS": "Nevnt i masteroppgave om boligkjøpsmodeller. Relevant for erfaringsutveksling.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 5",
+    "id_master": 201
+  },
+  {
+    "navn": "OBOS",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, boligkjøpsmodeller, deleie, deleie-modell, erfaringsutveksling, obos bostart, obos deleie, teknologi",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Markedets største aktør med over 1.600 boliger solgt gjennom Deleie og Bostart per september 2024.",
+    "relevans_for_TBS": "Konkurrent med dominerende posisjon. OBOS Bostart gir kjøperen rett (men ikke plikt) til å kjøpe tilbake ved salg til opprinnelig pris justert for markedsprisutviklingen. OBOS Deleie er delt eierskapsmodell (minst 50% eierandel).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.1, side 5, ref 19; GPT: Kapittel 2, side 2-4, ref 14-21, 58; Claude: Side 2; Manus: Kapittel 2.1, side 3, ref [7]; Perplexity: Side 5, ref. 21, 88, 90, 93, 96",
+    "id_master": 202
+  },
+  {
+    "navn": "Peab",
+    "kategori": "privat_aktor",
+    "temaer": "bygg, utvikling",
+    "geografi": "Norden",
+    "rolle_kort": "Nordisk byggselskap.",
+    "relevans_for_TBS": "Nevnt i referanselisten som potensiell partner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 103",
+    "id_master": 203
+  },
+  {
+    "navn": "Selskapet Bakke",
+    "kategori": "privat_aktor",
+    "temaer": "leie-før-eie, østlandet",
+    "geografi": "Østlandet",
+    "rolle_kort": "Utbygger som har annonsert 'leie før eie' i sine prosjekter på Østlandet.",
+    "relevans_for_TBS": "Slike initiativ er ofte utløst av kommunale insentiver eller for å utvide kjøpergruppen.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, side 4",
+    "id_master": 204
+  },
+  {
+    "navn": "Selvaag",
+    "kategori": "privat_aktor",
+    "temaer": "leie-til-eie, utbygger",
+    "geografi": "Oslo",
+    "rolle_kort": "Utbygger som har hatt leie-til-eie-boliger i Oslo.",
+    "relevans_for_TBS": "Eksempel på utbygger som eksperimenterer med alternative boligmodeller mot gjenkjøpsavtaler eller samarbeide med kommuner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, side 4",
+    "id_master": 205
+  },
+  {
+    "navn": "Solid",
+    "kategori": "privat_aktor",
+    "temaer": "boligutvikling",
+    "geografi": "Norge",
+    "rolle_kort": "Boligutbygger.",
+    "relevans_for_TBS": "Nevnt i referanselisten som potensiell partner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 105",
+    "id_master": 206
+  },
+  {
+    "navn": "Svartlamon Boligstiftelse",
+    "kategori": "privat_aktor",
+    "temaer": "alternativ boform, beboerstyrt, ikke-kommersiell boligforvaltning",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "Demonstrerer 20+ års erfaring med ikke-kommersiell boligforvaltning.",
+    "relevans_for_TBS": "Langvarig erfaring med alternativ, beboerstyrt boligforvaltning som kan gi verdifull innsikt for nye tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 5",
+    "id_master": 207
+  },
+  {
+    "navn": "TOBB (Trondheim og omegn boligbyggelag)",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, bærekraft, deleie, fastprismodell, leie før eie, leie-før-eie, leie-til-eie, tobb deleie, tobb leie før eie, yippi",
+    "geografi": "Trondheim, Trøndelag",
+    "rolle_kort": "Boligbyggelag i Trondheim med leie-til-eie og deleie-varianter.",
+    "relevans_for_TBS": "Tilbyr opptil 5 års leie med fastpris satt ved kontraktsinngåelse - unikt fordi all prisøkning bygger egenkapital for leietaker. Første prosjekt Lillebyen (51 enheter, 2017) solgte umiddelbart med over 500 søkere. SpareBank 1 SMN er bankpartner med økonomisk rådgivning.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.1, side 5; GPT: Kapittel 2, side 3, ref 22-24; Claude: Side 2; Manus: Kapittel 2.1, side 3, ref [8]; Perplexity: Side 5, ref. 87, 89, 91",
+    "id_master": 208
+  },
+  {
+    "navn": "Thon Bolig",
+    "kategori": "privat_aktor",
+    "temaer": "boligutvikling",
+    "geografi": "Norge",
+    "rolle_kort": "Boligutbygger.",
+    "relevans_for_TBS": "Nevnt i referanselisten som potensiell partner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 100",
+    "id_master": 209
+  },
+  {
+    "navn": "Torbjørn Sotberg",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, tobb",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "Administrerende direktør i TOBB.",
+    "relevans_for_TBS": "Nøkkelkontakt for samarbeid med TOBB om leie-før-eie-modeller.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 2",
+    "id_master": 210
+  },
+  {
+    "navn": "Tredje Boligsektor AS",
+    "kategori": "privat_aktor",
+    "temaer": "behovsprøving, deleie, deleie med tilskudd, hellvik hage, hellvikveien 46, leie-til-eie, pilotprosjekt, prisregulering, sosial boligbygging",
+    "geografi": "Nesodden, Norge",
+    "rolle_kort": "Sentral aktør i landskapet med pilotprosjektet Hellvik Hage på Nesodden.",
+    "relevans_for_TBS": "Hovedaktøren i rapporten. Har demonstrert en sammensatt modell med 12 boligsosiale virkemidler gjennom pilotprosjektet med 40 deleieboliger og 8 samlokaliserte boliger for unge med funksjonsnedsettelser. Prisstruktur koblet til betalingsevne via Sykepleierindeksen.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 1.1-1.2, side 1-2, ref 1, 5; Manus: Kapittel 2.3, side 3-4, ref [2]",
+    "id_master": 211
+  },
+  {
+    "navn": "Tøyen Boligbyggelag",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, grasrot-initiativ, hagegata 30, ikke-kommersielle boliger, leie-til-eie, leieeie",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Boligbyggelag i Stavanger som gikk inn på eiersiden av LeieEie i 2022.",
+    "relevans_for_TBS": "Etablert for å gjøre en hel bygård på Tøyen (Hagegata 30) til pilot for tredje boligsektor med beboer- og nabolagsdrevet boligutvikling. Selv om prosjektet ikke lyktes, har initiativet bidratt til debatten og inspirert lignende tanker i andre byer.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 2, side 3, ref 25, 31; GPT: Kapittel 2, side 3, ref 32; GPT: Kapittel 2, side 3-4, ref 38-40",
+    "id_master": 212
+  },
+  {
+    "navn": "USBL",
+    "kategori": "privat_aktor",
+    "temaer": "boligbyggelag, boligprosjekter, deleie, leie-til-eie, usbl leie til eie",
+    "geografi": "Oslo-regionen",
+    "rolle_kort": "Boligbyggelag på Østlandet som lanserte Usbl Leie til eie i 2025.",
+    "relevans_for_TBS": "Ordning hvor medlemmer kan leie en ny bolig i inntil fem år med rett til å kjøpe til forhåndsavtalt pris. Leietaker står fritt til å la være å kjøpe dersom livssituasjonen endrer seg. 'Bakveien inn' på boligmarkedet for unge og førstegangskjøpere.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.1, side 5; GPT: Kapittel 2, side 3, ref 25-27; Perplexity: Side 1, ref. 99, 102, 104, 107, 109",
+    "id_master": 213
+  },
+  {
+    "navn": "Vedal",
+    "kategori": "privat_aktor",
+    "temaer": "boligutvikling",
+    "geografi": "Norge",
+    "rolle_kort": "Boligutbygger.",
+    "relevans_for_TBS": "Nevnt i referanselisten som potensiell partner.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: ref. 110",
+    "id_master": 214
+  },
+  {
+    "navn": "Vindmøllebakken",
+    "kategori": "privat_aktor",
+    "temaer": "arkitektonisk innovasjon, bofellesskap, delemodeller, deling, fellesareal, gaining by sharing, sosial bærekraft, stavanger",
+    "geografi": "Stavanger, Rogaland",
+    "rolle_kort": "Gaining by Sharing-prosjekt med fokus på deling av arealer og bofellesskap på tvers av generasjoner.",
+    "relevans_for_TBS": "Boenheter på 25-90 kvm hver med store fellesarealer. Vant Statens pris for byggkvalitet 2020. Modellen reduserer boligkostnader gjennom mindre private enheter kombinert med rause fellesområder.",
+    "status": "Ferdigstilt",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 3.3, side 8, ref 23; GPT: Kapittel 2, side 4; Claude: Side 2-3",
+    "id_master": 215
+  },
+  {
+    "navn": "AI i kommunal saksbehandling (NAV Trondheim)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "ai, robotisering, sosialhjelp-søknader",
+    "geografi": "Trondheim, Norge",
+    "rolle_kort": "NAV Trondheim piloterer robotisering av sosialhjelp-søknader.",
+    "relevans_for_TBS": "Potensial for effektivisering av søknadsprosesser i tredje boligsektor.",
+    "status": "Pilot",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 6, ref. 28",
+    "id_master": 216
+  },
+  {
+    "navn": "Ambita/Infoland",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "api-er, due diligence, eiendomsdata",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Norges største portal for eiendomsdata med API-er for systemintegrasjon og verktøy for due diligence.",
+    "relevans_for_TBS": "Kan brukes for eiendomsanalyse og integrasjon i tredje boligsektor-systemer.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 4",
+    "id_master": 217
+  },
+  {
+    "navn": "BIM (Building Information Modeling)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "3d-modeller, visualisering, vr",
+    "geografi": "Internasjonalt",
+    "rolle_kort": "Standard for visualisering og kommunikasjon med interessenter i byggebransjen.",
+    "relevans_for_TBS": "Gir mulighet til bedre visualisering og kommunikasjon med interessenter. For prosjekter i tredje boligsektor kan man bruke BIM-modeller til å lage VR-rundturer som politikerne eller potensielle beboere kan oppleve.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 8",
+    "id_master": 218
+  },
+  {
+    "navn": "Bate/LeieEie portaler",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "forkjøpsrett, interesselister, kjøpekraftberegning",
+    "geografi": "Norge",
+    "rolle_kort": "Eksisterende digitale løsninger for interesselister og forkjøpsrett.",
+    "relevans_for_TBS": "Kan lisensieres eller kopieres. Viktig med lavterskel inngang hvor brukerne enkelt kan beregne sin kjøpekraft i modellen.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 9",
+    "id_master": 219
+  },
+  {
+    "navn": "Bidding War Index (Housing Lab)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligmarkedsanalyse, budrunder",
+    "geografi": "Norge",
+    "rolle_kort": "Indeks utviklet av Housing Lab for å analysere budrunder i boligmarkedet.",
+    "relevans_for_TBS": "Gir innsikt i markedspresset som driver behovet for en tredje sektor.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.1, side 4-5, ref [12]",
+    "id_master": 220
+  },
+  {
+    "navn": "Bokvalitetsrosen",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "bokvalitet, norsk eiendom, vurderingsverktøy",
+    "geografi": "Norge",
+    "rolle_kort": "Vurderingsverktøy for bokvalitet utviklet av Norsk Eiendom.",
+    "relevans_for_TBS": "Kan brukes for å dokumentere og sammenligne bokvalitet i tredje boligsektor-prosjekter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 6",
+    "id_master": 221
+  },
+  {
+    "navn": "BoligTorget",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "digital boligformidling, én dør inn",
+    "geografi": "Tromsø (og andre kommuner)",
+    "rolle_kort": "Digitalt system for boligformidling hvor boligsøkere registrerer seg én gang.",
+    "relevans_for_TBS": "Eksempel på 'én dør inn' hvor boligsøkere registrerer seg én gang og både saksbehandlere og brukere får et helhetlig bilde. Tredje Boligsektor AS kan tilby et alternativt tilbud som vises i slike systemer.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7, ref 57",
+    "id_master": 222
+  },
+  {
+    "navn": "Bouvet",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "digitalisering, it-utvikling, kobo",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "IT-selskap som har utviklet Kobo-systemet for Husbanken.",
+    "relevans_for_TBS": "Teknologipartner for digitale løsninger i boligsektoren.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude"
+    ],
+    "kildehenvisninger_i_rapporter": "Claude: Side 4",
+    "id_master": 223
+  },
+  {
+    "navn": "Bubble Index (Housing Lab)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligmarkedsanalyse, finansiell stabilitet",
+    "geografi": "Norge",
+    "rolle_kort": "Indeks utviklet av Housing Lab for å analysere boligmarkedet.",
+    "relevans_for_TBS": "Gir innsikt i markedspresset som driver behovet for en tredje sektor.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 3.1, side 4-5, ref [12]",
+    "id_master": 224
+  },
+  {
+    "navn": "Bustadsosial monitor",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligsosiale indikatorer, dataverktøy, husbanken",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens digitale plattform som gir detaljert oversikt over den boligsosiale situasjonen i alle landets kommuner.",
+    "relevans_for_TBS": "Presenterer data og indikatorer innenfor fire hovedområder: Barn og unges boforhold, Personer med nedsatt funksjonsevne, Eldre og bolig, og Bostedsløse. Uvurderlig ressurs for å identifisere geografiske områder og målgrupper med størst behov.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT",
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7, ref 55, 56; Manus: Kapittel 4.1, side 6, ref [21]",
+    "id_master": 225
+  },
+  {
+    "navn": "Eiendom Norges boligprisstatistikk",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligprisdata, markedsanalyse",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statistikk og data om boligpriser fra Eiendom Norge.",
+    "relevans_for_TBS": "Gir grunnlag for prismodellering, analyse av prispress og identifisering av markeder med behov for rimelige boliger.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 4.3, side 7, ref [23]",
+    "id_master": 226
+  },
+  {
+    "navn": "Eiendomsverdi AS",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligprisdata, boligprisindekser, database, eiendomsdata, markedsanalyse, prisestimater, proptech, sykepleierindeksen, verdivurderinger",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Publiserer sykepleierindeksen og tilbyr 30+ års historiske data og automatiserte verdivurderinger.",
+    "relevans_for_TBS": "Kritisk verktøy for å dokumentere prisregulerte boligers forholdsmessige prising. Sykepleierindeksen viser at bare 2,3% av boligene i Oslo er overkommelige for en sykepleier (ned fra 20,7% i 2015).",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7, ref 16; Claude: Side 4; Perplexity: Side 6",
+    "id_master": 227
+  },
+  {
+    "navn": "Fellestjenester BYGG",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "digitale byggesøknader, oslo kommune",
+    "geografi": "Oslo",
+    "rolle_kort": "Plattform for heldigitale byggesøknader innført av Oslo kommune fra 2022.",
+    "relevans_for_TBS": "Eneste innsendingsmåte for å få godkjent boligprosjekter i Oslo. Tredje Boligsektor AS må være kompatibel med slike systemer.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7",
+    "id_master": 228
+  },
+  {
+    "navn": "Geonorge",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "arealplanverktøy, kartdata, kartverket",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Nasjonal portal for geografisk informasjon fra Kartverket.",
+    "relevans_for_TBS": "Gir tilgang til digitale arealplaner og kan effektivisere dialogen med kommunale planmyndigheter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 4.3, side 7, ref [25]",
+    "id_master": 229
+  },
+  {
+    "navn": "Husleie.no",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "digitalisering, leieforvaltning",
+    "geografi": "Norge",
+    "rolle_kort": "Digital plattform for forvaltning av leieforhold.",
+    "relevans_for_TBS": "Alternativ til Unite Living for automatisering av leieforhold. Relevant for drift av utleiedelen i deleie-modellen.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 9",
+    "id_master": 230
+  },
+  {
+    "navn": "KOBO (Kommunalt Boligsystem)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "fagsystem, forvaltning, husbanken, ikt-system, integrasjon, kommunal boligadministrasjon, kommunal boligforvaltning, kommunale boliger, tildeling, tildelingssystem",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "IKT-system under utvikling som skal hjelpe kommunene å administrere sine boliger og boligsøkere mer effektivt.",
+    "relevans_for_TBS": "Utviklet av Bouvet. Dekker hele prosessen fra søknad til tildeling og forvaltning med automatisk innhenting av skatte- og inntektsdata fra Skatteetaten. Pilotkommuner: Bodø, Alta, Lillehammer, Bærum og Sarpsborg.",
+    "status": "Aktiv (utrulling)",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Manus",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, side 4, ref 10, 11; GPT: Kapittel 4, side 7; Claude: Side 4; Manus: Kapittel 4.2, side 6, ref [22]; Perplexity: Side 4, 6, ref. 16-17, 35, 121",
+    "id_master": 231
+  },
+  {
+    "navn": "KS' verktøykasse for plan- og byggesak",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "arealplanverktøy, kommunal planlegging",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Verktøykasse fra KS for plan- og byggesak.",
+    "relevans_for_TBS": "Kan effektivisere dialogen med kommunale planmyndigheter.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 4.3, side 7, ref [26]",
+    "id_master": 232
+  },
+  {
+    "navn": "KartAI-prosjektet",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "arealplanlegging, automatisering, kunstig intelligens",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Prosjekt for bruk av AI i arealplanlegging.",
+    "relevans_for_TBS": "Har et fremtidig potensial for å automatisere analyser av reguleringsplaner, identifisere egnede tomter og effektivisere saksbehandling.",
+    "status": "Under utvikling",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 4.3, side 7, ref [27]",
+    "id_master": 233
+  },
+  {
+    "navn": "MAD arkitekter",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "arkitektur, delte bokonsepter, visualisering",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Arkitektkontor som jobber med visualisering av delte bokonsepter.",
+    "relevans_for_TBS": "Eksempel på arkitektmiljø som kan visualisere hvordan rimelige og markedsprisede boliger vil se ut i et nabolag.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 8",
+    "id_master": 234
+  },
+  {
+    "navn": "Marketer",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "ai, markedsanalyse, målrettet markedsføring",
+    "geografi": "Norge",
+    "rolle_kort": "PropTech-løsning for AI-basert markedsanalyse og målrettet markedsføring.",
+    "relevans_for_TBS": "Kan identifisere potensielle kjøpere basert på betalingsevne og demografi, essensielt for å treffe målgrupper som sykepleiere og lærere.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 9, ref 28",
+    "id_master": 235
+  },
+  {
+    "navn": "Planslurpen (Drømmeplan)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "direktoratet for byggkvalitet, ki, reguleringsplaner",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "KI-verktøy fra Direktoratet for byggkvalitet som tolker reguleringsplaner automatisk.",
+    "relevans_for_TBS": "Testes i flere pilotkommuner (per 2025). Har potensial til å kutte ned saksbehandlingstid og redusere feil i byggesøknader. For en aktør som Tredje Boligsektor AS, som opererer i skjæringspunktet mellom privat utbygger og offentlig regelverk, betyr slike verktøy at det blir enklere å finne ut hvilke sosialbolig-bestemmelser eller muligheter som gjelder i ulike kommuner.",
+    "status": "Under utvikling",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7, ref 52, 53",
+    "id_master": 236
+  },
+  {
+    "navn": "Prognosesenteret",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligbehov, markedsdata, prognoser",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Beregner boligbehov per kommune.",
+    "relevans_for_TBS": "Kan dokumentere markedsbehov. Kilde for tall om årlig boligbehov (27.770 boliger 2025-2029).",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 6, ref. 30",
+    "id_master": 237
+  },
+  {
+    "navn": "Påkobla Assistent (Kristiansund)",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "ai, kommunal, saksbehandling",
+    "geografi": "Kristiansund, Norge",
+    "rolle_kort": "AI-assistent for kommunal saksbehandling i Kristiansund.",
+    "relevans_for_TBS": "Potensial for effektivisering av søknadsprosesser.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Perplexity: Side 6",
+    "id_master": 238
+  },
+  {
+    "navn": "SSBs prisindeks for brukte boliger",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "boligprisdata, statistikk",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Statistisk sentralbyrås prisindeks for brukte boliger.",
+    "relevans_for_TBS": "Gir grunnlag for prismodellering og analyse av boligmarkedet.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Manus"
+    ],
+    "kildehenvisninger_i_rapporter": "Manus: Kapittel 4.3, side 7, ref [24]",
+    "id_master": 239
+  },
+  {
+    "navn": "Snøhetta",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "arkitektur, co-living, visualisering",
+    "geografi": "Oslo, Norge",
+    "rolle_kort": "Arkitektkontor som jobber med visualisering av delte bokonsepter som 'co-living'.",
+    "relevans_for_TBS": "Eksempel på arkitektmiljø som kan visualisere hvordan rimelige og markedsprisede boliger vil se ut i et nabolag, og avkrefte fordommer om utseende eller kvalitet.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 8",
+    "id_master": 240
+  },
+  {
+    "navn": "Spacemaker",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "ai, autodesk, tidligfase planlegging",
+    "geografi": "Norge/Internasjonalt",
+    "rolle_kort": "AI-basert verktøy for tidligfase planlegging av boligprosjekter, utviklet i Norge og nå eid av Autodesk.",
+    "relevans_for_TBS": "Genererer automatiske forslag til utbyggingsløsninger på en tomt, optimalisert for faktorer som solforhold, utsikt, støy og antall boenheter. Tredje Boligsektor AS kan bruke slike verktøy for å demonstrere for kommuner hvordan man kan integrere boliger med prisregulering uten å ofre bokvalitet.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "GPT"
+    ],
+    "kildehenvisninger_i_rapporter": "GPT: Kapittel 4, side 7",
+    "id_master": 241
+  },
+  {
+    "navn": "Startskudd",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "husbanken, saksbehandling, startlån",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Husbankens saksbehandlingsverktøy for startlån.",
+    "relevans_for_TBS": "Integrasjon eller sømløs samhandling med Startskudd vil redusere friksjonen for sluttbrukerne. Tietoevry leverer allerede integrasjoner mot Startskudd, noe som viser at teknologien er tilgjengelig for tredjeparter.",
+    "status": "Aktiv",
+    "kildetype": "Primær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 2.1, side 4, ref 12, 13",
+    "id_master": 242
+  },
+  {
+    "navn": "Sykepleierindeksen",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "betalingsevne, boligpolitikk, boligprisindeks, eiendomsverdi, overkommelighet, prisindeks, prisindikator, prisregulering",
+    "geografi": "Norge (nasjonal)",
+    "rolle_kort": "Indeks som måler hvor stor andel av boligene som er overkommelige for en sykepleier.",
+    "relevans_for_TBS": "Brukes av Tredje Boligsektor AS for prisjustering i takt med snittlønn. I mange pressområder er andelen nede i 3-5 prosent. Illustrerer boligkrisen og behovet for alternative modeller.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 1.1, side 1, ref 1; Claude: Side 1; Perplexity: Side 1, 7",
+    "id_master": 243
+  },
+  {
+    "navn": "Tietoevry / Public 360°",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "integrasjon, offentlig sektor, saksbehandling, startskudd",
+    "geografi": "Norge/Norden",
+    "rolle_kort": "IT-selskap som leverer løsninger som Public 360° med integrasjon mot Husbankens systemer.",
+    "relevans_for_TBS": "Leverer allerede integrasjoner mot Startskudd for kommunene. Tredje Boligsektor AS bør undersøke muligheten for API-integrasjon for å sende ferdigutfylte søknader på vegne av sine kjøpere.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 10, ref 12, 13",
+    "id_master": 244
+  },
+  {
+    "navn": "Unite Living",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "bankid, fakturering, kontraktsinngåelse, leieforvaltning",
+    "geografi": "Norge",
+    "rolle_kort": "Plattform som automatiserer hele livssyklusen til et leieforhold.",
+    "relevans_for_TBS": "For en modell som kombinerer eie og leie, er det avgjørende med systemer som håndterer denne hybriditeten ryddig. Kontraktsinngåelse med BankID, fakturering og innkreving.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 9, ref 28",
+    "id_master": 245
+  },
+  {
+    "navn": "Unloc",
+    "kategori": "teknologi_digitalt_verktoy",
+    "temaer": "deling, digital nøkkelhåndtering, tilgangsstyring",
+    "geografi": "Norge",
+    "rolle_kort": "PropTech-løsning for digital nøkkelhåndtering via mobil.",
+    "relevans_for_TBS": "I prosjekter med mye deling (fellesverksted, gjesteboliger) er enkel tilgangsstyring via mobil en forutsetning for at delingen skal fungere i praksis.",
+    "status": "Aktiv",
+    "kildetype": "Sekundær",
+    "rapporter_som_omtaler": [
+      "Gemini"
+    ],
+    "kildehenvisninger_i_rapporter": "Gemini: Kapittel 5.1, side 9-10, ref 28",
+    "id_master": 246
+  }
+]
