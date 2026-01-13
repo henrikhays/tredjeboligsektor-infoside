@@ -1,25 +1,70 @@
+import { ReactNode } from 'react';
+
 interface StatCardProps {
   title: string;
   value: number | string;
   description?: string;
-  icon?: React.ReactNode;
+  icon?: ReactNode;
+  color?: 'blue' | 'purple' | 'emerald' | 'amber' | 'red';
 }
 
-export default function StatCard({ title, value, description, icon }: StatCardProps) {
+const colorClasses = {
+  blue: {
+    bg: 'bg-blue-50',
+    iconBg: 'bg-blue-100',
+    iconText: 'text-blue-600',
+    valueText: 'text-blue-600',
+    border: 'border-blue-100',
+  },
+  purple: {
+    bg: 'bg-purple-50',
+    iconBg: 'bg-purple-100',
+    iconText: 'text-purple-600',
+    valueText: 'text-purple-600',
+    border: 'border-purple-100',
+  },
+  emerald: {
+    bg: 'bg-emerald-50',
+    iconBg: 'bg-emerald-100',
+    iconText: 'text-emerald-600',
+    valueText: 'text-emerald-600',
+    border: 'border-emerald-100',
+  },
+  amber: {
+    bg: 'bg-amber-50',
+    iconBg: 'bg-amber-100',
+    iconText: 'text-amber-600',
+    valueText: 'text-amber-600',
+    border: 'border-amber-100',
+  },
+  red: {
+    bg: 'bg-red-50',
+    iconBg: 'bg-red-100',
+    iconText: 'text-red-600',
+    valueText: 'text-red-600',
+    border: 'border-red-100',
+  },
+};
+
+export default function StatCard({ title, value, description, icon, color = 'blue' }: StatCardProps) {
+  const colors = colorClasses[color];
+
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-6">
-      <div className="flex items-center justify-between">
-        <div>
-          <p className="text-sm font-medium text-gray-500">{title}</p>
-          <p className="mt-1 text-3xl font-semibold text-gray-900">{value}</p>
-          {description && (
-            <p className="mt-1 text-sm text-gray-500">{description}</p>
-          )}
-        </div>
+    <div className={`${colors.bg} rounded-xl border ${colors.border} p-5 transition-all hover:shadow-md`}>
+      <div className="flex items-start justify-between mb-3">
         {icon && (
-          <div className="p-3 bg-blue-50 rounded-lg text-blue-600">{icon}</div>
+          <div className={`w-10 h-10 ${colors.iconBg} rounded-lg flex items-center justify-center ${colors.iconText}`}>
+            {icon}
+          </div>
         )}
       </div>
+      <div className={`text-3xl font-bold ${colors.valueText} mb-1`}>
+        {typeof value === 'number' ? value.toLocaleString('no-NO') : value}
+      </div>
+      <div className="text-sm font-medium text-gray-900">{title}</div>
+      {description && (
+        <div className="text-xs text-gray-500 mt-0.5">{description}</div>
+      )}
     </div>
   );
 }

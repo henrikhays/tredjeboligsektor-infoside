@@ -65,5 +65,3 @@ pnpm run build
 ```
 
 Dette vil generere en statisk versjon av nettstedet i `.next`-mappen.
-
-Oppdatert 13.01.2026 for første Vercel-deploy.
