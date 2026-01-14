@@ -233,10 +233,26 @@ export default function HomePage() {
               </span>
               <h3 className="font-semibold text-gray-900">Innsamling</h3>
             </div>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              5 AI-rapporter (Gemini, GPT, Claude, Manus, Perplexity) har
-              kartlagt aktører innen tredje boligsektor basert på ulike kilder og perspektiver.
+            <p className="text-sm text-gray-600 leading-relaxed mb-3">
+              5 AI-rapporter har kartlagt aktører innen tredje boligsektor basert på ulike kilder og perspektiver.
             </p>
+            <div className="flex flex-wrap gap-1">
+              <a href="/reports/gemini-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-0.5 text-xs bg-blue-100 hover:bg-blue-200 text-blue-700 rounded transition-colors">
+                🔷 Gemini
+              </a>
+              <a href="/reports/gpt-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-0.5 text-xs bg-blue-100 hover:bg-blue-200 text-blue-700 rounded transition-colors">
+                🟢 GPT
+              </a>
+              <a href="/reports/claude-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-0.5 text-xs bg-blue-100 hover:bg-blue-200 text-blue-700 rounded transition-colors">
+                🟠 Claude
+              </a>
+              <a href="/reports/manus-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-0.5 text-xs bg-blue-100 hover:bg-blue-200 text-blue-700 rounded transition-colors">
+                🔵 Manus
+              </a>
+              <a href="/reports/perplexity-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-0.5 text-xs bg-blue-100 hover:bg-blue-200 text-blue-700 rounded transition-colors">
+                🟣 Perplexity
+              </a>
+            </div>
           </div>
           <div className="p-6 md:p-8 group hover:bg-blue-50/50 transition-colors">
             <div className="flex items-center gap-3 mb-4">
@@ -264,11 +280,85 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Last ned rapporter */}
+      <section className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
+        <div className="px-6 py-4 md:px-8 md:py-5 bg-gray-50 border-b border-gray-200">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 bg-indigo-100 rounded-xl flex items-center justify-center">
+              <DownloadIcon className="w-5 h-5 text-indigo-600" />
+            </div>
+            <div>
+              <h2 className="text-xl font-bold text-gray-900">Last ned rapporter</h2>
+              <p className="text-sm text-gray-500">De 5 AI-rapportene som ligger til grunn for kartleggingen</p>
+            </div>
+          </div>
+        </div>
+        <div className="p-4 md:p-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
+            <ReportDownloadCard
+              name="Gemini"
+              icon="🔷"
+              filename="gemini-rapport.pdf"
+              description="Deep Research"
+            />
+            <ReportDownloadCard
+              name="GPT"
+              icon="🟢"
+              filename="gpt-rapport.pdf"
+              description="GPT-5.2 Report"
+            />
+            <ReportDownloadCard
+              name="Claude"
+              icon="🟠"
+              filename="claude-rapport.pdf"
+              description="Komplett kartlegging"
+            />
+            <ReportDownloadCard
+              name="Manus"
+              icon="🔵"
+              filename="manus-rapport.pdf"
+              description="Tredje Boligsektor"
+            />
+            <ReportDownloadCard
+              name="Perplexity"
+              icon="🟣"
+              filename="perplexity-rapport.pdf"
+              description="Aktørkartlegging"
+            />
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
 
+function ReportDownloadCard({ name, icon, filename, description }: { name: string; icon: string; filename: string; description: string }) {
+  return (
+    <a
+      href={`/reports/${filename}`}
+      download
+      className="group flex flex-col items-center p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-indigo-300 hover:bg-indigo-50 transition-all"
+    >
+      <span className="text-3xl mb-2">{icon}</span>
+      <span className="font-semibold text-gray-900 group-hover:text-indigo-700">{name}</span>
+      <span className="text-xs text-gray-500 text-center mt-1">{description}</span>
+      <span className="mt-3 inline-flex items-center gap-1 text-xs font-medium text-indigo-600 group-hover:text-indigo-800">
+        <DownloadIcon className="w-3 h-3" />
+        Last ned PDF
+      </span>
+    </a>
+  );
+}
+
 // Icons
+function DownloadIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+    </svg>
+  );
+}
 function UsersIcon({ className }: { className?: string }) {
   return (
     <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">

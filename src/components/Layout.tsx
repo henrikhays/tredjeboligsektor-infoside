@@ -175,13 +175,32 @@ export default function Layout({ children }: LayoutProps) {
             </div>
           </div>
 
-          <div className="border-t border-gray-100 mt-8 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-500">
-              © {new Date().getFullYear()} Tredje Boligsektor Aktørkartlegging
-            </p>
-            <p className="text-xs text-gray-400">
-              Data konsolidert fra 5 AI-rapporter (Gemini, GPT, Claude, Manus, Perplexity)
-            </p>
+          <div className="border-t border-gray-100 mt-8 pt-6">
+            <div className="flex flex-col sm:flex-row justify-between items-center gap-4 mb-4">
+              <p className="text-sm text-gray-500">
+                © {new Date().getFullYear()} Tredje Boligsektor Aktørkartlegging
+              </p>
+              <p className="text-xs text-gray-400">
+                Data konsolidert fra 5 AI-rapporter
+              </p>
+            </div>
+            <div className="flex flex-wrap justify-center gap-2">
+              <a href="/reports/gemini-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-700 rounded transition-colors">
+                🔷 Gemini
+              </a>
+              <a href="/reports/gpt-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-700 rounded transition-colors">
+                🟢 GPT
+              </a>
+              <a href="/reports/claude-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-700 rounded transition-colors">
+                🟠 Claude
+              </a>
+              <a href="/reports/manus-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-700 rounded transition-colors">
+                🔵 Manus
+              </a>
+              <a href="/reports/perplexity-rapport.pdf" download className="inline-flex items-center gap-1 px-2 py-1 text-xs bg-gray-100 hover:bg-blue-100 text-gray-600 hover:text-blue-700 rounded transition-colors">
+                🟣 Perplexity
+              </a>
+            </div>
           </div>
         </div>
       </footer>

@@ -76,6 +76,14 @@ const reportIcons: Record<string, string> = {
   Perplexity: '🟣',
 };
 
+const reportFiles: Record<string, string> = {
+  Gemini: '/reports/gemini-rapport.pdf',
+  GPT: '/reports/gpt-rapport.pdf',
+  Claude: '/reports/claude-rapport.pdf',
+  Manus: '/reports/manus-rapport.pdf',
+  Perplexity: '/reports/perplexity-rapport.pdf',
+};
+
 export default async function ActorPage({ params }: ActorPageProps) {
   const { id } = await params;
   const actor = getActorById(parseInt(id, 10));
@@ -253,16 +261,23 @@ export default async function ActorPage({ params }: ActorPageProps) {
             </div>
             <div className="p-4 space-y-2">
               {actor.rapporter_som_omtaler?.map((rapport, index) => (
-                <div
+                <a
                   key={index}
-                  className="flex items-center gap-3 px-4 py-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  href={reportFiles[rapport] || '#'}
+                  download
+                  className="flex items-center gap-3 px-4 py-3 bg-gray-50 rounded-lg hover:bg-blue-50 hover:border-blue-200 border border-transparent transition-colors group"
                 >
                   <span className="text-xl">{reportIcons[rapport] || '📄'}</span>
-                  <span className="text-gray-900 font-medium">{rapport}</span>
-                  <svg className="w-4 h-4 text-green-500 ml-auto" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                  </svg>
-                </div>
+                  <span className="text-gray-900 font-medium group-hover:text-blue-700">{rapport}</span>
+                  <div className="ml-auto flex items-center gap-2">
+                    <svg className="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                    <svg className="w-4 h-4 text-gray-400 group-hover:text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                  </div>
+                </a>
               ))}
               {reportCount === 0 && (
                 <p className="text-sm text-gray-500 text-center py-4">
